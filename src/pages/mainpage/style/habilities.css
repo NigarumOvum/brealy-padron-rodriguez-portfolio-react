@@ -1,0 +1,108 @@
+.habilities-container {
+  width: 80%;
+
+  padding: 4rem 2rem;
+  margin: auto;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+}
+
+.habilities-title {
+  width: 22rem;
+}
+
+.habilities-title h1 {
+  font-size: 60px;
+  line-height: 60px;
+  margin-bottom: 30px;
+}
+
+.habilities-title p {
+  font-size: 16px;
+  line-height: 10px;
+}
+
+.habilities-cards {
+  max-width: 45rem;
+  padding: 0 1.5rem;
+  position: relative;
+
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.habilities-cards .card-popup {
+  position: absolute;
+  z-index: 3;
+  top: 0;
+  left: 0;
+
+  margin-top: 2.5rem;
+  margin-left: 5rem;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  
+  font-size: 1rem;
+  text-align: center;
+
+  max-width: 600px;
+  padding: 2rem;
+
+  background: var(--text);
+  color: var(--background);
+  backdrop-filter: blur(6px);
+  border-radius: 8px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+}
+
+.habilities-cards .card-popup p {
+  font-weight: 700;
+}
+
+.habilities-cards .card-popup .timer-line {
+  height: 6px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  background: var(--main);
+}
+
+.habilities-cards .card-popup span {
+  color: var(--main);
+  font-weight: 700;
+  font-size: 0.7rem;
+
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  margin-bottom: 10px;
+  margin-left: 10px;
+}
+
+@media screen and (max-width: 1000px) {
+  .habilities-container {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .habilities-title {
+    text-align: center;
+    width: 40rem;
+    margin-bottom: 4rem;
+  }
+  .habilities-cards {
+    width: 50rem;
+  }
+}

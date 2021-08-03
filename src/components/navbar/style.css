@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+
+#navbar {
+  padding: 20px 0px;
+  width: 100vw;
+  background: var(--cardBackground);
+  box-shadow: var(--boxShadow);
+  transition: 0.5s ease-in-out;
+  animation: showNav 0.7s ease-in-out;
+}
+
+#navbar-fixed {
+  position: fixed;
+  padding: 20px 0px;
+  top: 0;
+  width: 100%;
+  background: var(--popupBackground);
+  box-shadow: var(--boxShadow);
+  backdrop-filter: blur(6px);
+  animation: showNavFixed 0.7s ease-in-out;
+  z-index: 99;
+}
+
+.navbar-container {
+  width: 80%;
+  margin: auto;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  align-content: center;
+}
+
+.navbar-logo {
+  display: flex;
+  align-items: center;
+  align-content: center;
+  text-decoration: none;
+  color: var(--text);
+  cursor: poiter;
+}
+
+.navbar-logo img {
+  width: 30px;
+  margin-right: -4px;
+}
+
+.navbar-logo h1 {
+  font-family: 'Staatliches';
+  
+}
+
+.navbar-links {
+  display: flex;
+}
+
+.navbar-links-sections {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  margin-right: 20px;
+}
+
+.navbar-links-sections li {
+  list-style: none;
+  margin: 0px 15px;
+}
+
+.navbar-links-sections li a {
+  color: var(--text);
+
+  font-weight: 600;
+  font-size: 1rem;
+  text-decoration: none;
+
+  transition: 0.3s;
+
+  cursor: pointer;
+}
+
+.navbar-links-sections li a:hover{
+  color: var(--main);
+}
+
+.theme-switcher {
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+  position: relative;
+}
+
+.theme-switcher-icon {
+  position: absolute;
+  z-index: 2;
+  color: var(--secundary);
+}
+
+@keyframes showNavFixed {
+  from {
+    opacity: 0;
+  } to {
+    opacity: 1;
+  }
+}
+
+@media screen and (max-width: 1000px) {
+  .navbar-container {
+    width: 90%;
+  }
+  .navbar-links-sections {
+    margin-right: 10px;
+  }
+  .navbar-links-sections li {
+    margin: 0 10px;
+  }
+  .theme-switcher {
+    padding-left: 10px;
+  }
+}
