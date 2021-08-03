@@ -51,7 +51,7 @@
   },
   "devDependencies": {
     "@types/react-icons": "^3.0.0",
-    "@types/react-router-dom": "^5.1.6",
+    "@types/react-router-dom": "^5.1.6"
   },
   "main": "index.js",
   "repository": "https://github.com/nigarumovum/portfolio-react-app",
