@@ -1,0 +1,12 @@
+version: "3.8"
+services:
+  react-portfolio:
+    build:
+      context: .
+    volumes:
+      - .:/src
+    ports:
+      - 3000:3000
+    image: react-portfolio:brealy
+    container_name: react_container
+    command: npm start 
