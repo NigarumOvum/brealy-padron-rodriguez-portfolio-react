@@ -91,7 +91,7 @@ function MainPage() {
             <p>Place the mousse on the icon to see animation</p>
             <br/>
             <div style={{width: `${timer}%`}} className='timer-line'></div>
-            { timerCount < 10 ? <span>00:0{timerCount}</span> : <span>00:{timerCount}</span>}
+            { timerCount < 5 ? <span>00:0{timerCount}</span> : <span>00:{timerCount}</span>}
           </div> 
           ) 
         }
@@ -127,6 +127,13 @@ function MainPage() {
           </HabilitiesCard>
 
           <HabilitiesCard
+            name='django'
+            skillPercent={80}
+          >
+            <SiDjango className='django-icon' size={60} />
+          </HabilitiesCard>
+
+          <HabilitiesCard
             name='typescript'
             skillPercent={65}
           >
@@ -154,12 +161,7 @@ function MainPage() {
             <FaNodeJs className='nodejs-icon' size={60} />
           </HabilitiesCard>
 
-          <HabilitiesCard
-            name='django'
-            skillPercent={80}
-          >
-            <SiDjango className='django-icon' size={60} />
-          </HabilitiesCard>
+
         </div>
       </div>
     </section>
@@ -167,7 +169,7 @@ function MainPage() {
     <section id='projects'>
       <div className='projects-container'>
         <div className='projects-title'>
-          <h1>My<strong>Projects</strong>.</h1>
+          <h1>My <strong>Projects</strong>.</h1>
           <p>You'll see<strong> projects</strong> I made<strong> for</strong> my<strong> customers</strong>.</p>
         </div>
 
@@ -180,7 +182,7 @@ function MainPage() {
           </div>
 
           <div className='projects-button-container'>
-            <Link to='/repositories' className='projects-button-repositories' >See my repositories <AiOutlinePlus style={{ marginLeft: '5px' }} size={24} /></Link>
+            <Link to='/repositories' className='projects-button-repositories' >Watch my repos <AiOutlinePlus style={{ marginLeft: '5px' }} size={24} /></Link>
           </div>
       </div>
     </section>
@@ -206,7 +208,7 @@ function MainPage() {
         </div>
 
         <div className='contact-title'>
-          <h2>You can <strong>contanct me</strong>.</h2>
+          <h2>You can <strong>contact me</strong>.</h2>
         </div>
       </div>
       

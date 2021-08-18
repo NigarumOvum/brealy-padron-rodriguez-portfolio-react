@@ -27,7 +27,7 @@ function Sobre() {
             <img src={ProfileImg} className='sobre-card-image image-1' alt='Profile' />
           </div>
           <div className='sobre-card-title'>
-            <h1>Un poco<strong> sobre quien soy</strong></h1>
+            <h1>A few thing <strong> about me</strong></h1>
           </div>
           <div className='sobre-card-information'>
             
@@ -35,7 +35,7 @@ function Sobre() {
             <SobreInfo text='I consider myself an enthusiastic learner, and active student with a keen interest in new technological trends, in helping others find the most effective solution to their technical problems. In addition, I always seek progress through the acquisition of new skills and knowledge; and thus, complement my professional training and personal growth, with labor trends. ' />
             
             <BiCodeAlt className='sobre-card-personicon' size={60} />
-            <SobreInfo text={`.`} />          
+            <SobreInfo text={`I'm a systems engineer focused in Full-Stack Development & DevOps`} />          
 
           </div>
           

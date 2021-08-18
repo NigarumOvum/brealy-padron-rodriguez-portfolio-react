@@ -21,7 +21,7 @@ export default function StockProjectCard(){
         <div className='stockapp-top-content'>
           <div className='stockapp-title'>
             <h1>StockApp - Web & API</h1>
-            <p>Uma dashboard com api própria para controlar a quantidade e preços dos produtos de seu estoque.</p>
+            <p> A dasboard with own API to contorl quantity and product prices in stock.</p>
           </div>
           <div>
             <FaReact size={80} />
@@ -71,7 +71,7 @@ export default function StockProjectCard(){
           { isVisible && (
             <div className='card-popup'>
               <div className='card-popup-arrow-left'></div>
-              <p>Você pode acessar a dashboard utilizando a conta teste!</p>
+              <p>You can access the dashboard in the next link</p>
               <br/>
               <p><span>Login:</span> test</p>
               <p><span>Password:</span> test</p>
@@ -86,3 +86,6 @@ export default function StockProjectCard(){
     </div>
   );
 }
+
+
+

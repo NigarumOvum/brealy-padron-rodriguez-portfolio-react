@@ -4,7 +4,7 @@ const Projects = [
     icon: `https://img.icons8.com/fluent-systems-regular/1000/ffffff/headphones.png`,
     title: 'Tecnoelectro Comercio Online',
     description: 'Simple Website for a customer that needs presence an one image in the web',
-    ghLink: 'https://github.com/NigarumOvum/tecnoelectrocomercioonline',
+    ghLink: 'https://github.com/NigarumOvum/Django-Tecnoelectro-Website',
     brLink: 'https://tecnoelectrocomercioonline.com',
     tecnologias: [
       {

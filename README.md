@@ -22,15 +22,19 @@
   <p align='center'> Now you can acces the project thought this localhost url in port 3000  </p>
   <p align='center'<strong>http://localhost:3000</strong> </p>
 
-or you can use Docker 
+<p align='center'>  or you can use Docker  </p>
 
-Build and tag the Docker image:
+<p align='center'<strong>Build and tag the Docker image: </p>
 
-docker build --tag react-portfolio .
+<p align='center'<strong>docker build --tag react-portfolio . </strong> </p>
 
-docker run react-portfolio
-docker run --publish 3000:3000 react-portfolio
+<p align='center'<strong>docker run --publish 3000:3000 react-portfolio </strong> </p>
 
-docker-compose run app
+<p align='center'<strong>docker-compose build . </strong> </p>
 
+<p align='center'<strong>or  </strong> </p>
+
+<p align='center'<strong>docker-compose build  </strong> </p>
+
+<p align='center'<strong>docker-compose run react-portfolio </strong> </p>
 
