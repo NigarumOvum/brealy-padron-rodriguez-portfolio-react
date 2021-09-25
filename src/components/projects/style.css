@@ -7,16 +7,13 @@
   max-height: 400px;
   padding: 30px;
   margin-bottom: 20px;
-  
   text-align: center;
   border-radius: 8px;
-
   display: flex;
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
   align-content: center;
-
   transition: 0.2s ease-in-out;
 
   position: relative;
@@ -33,7 +30,7 @@
   height: 50px;
   border-radius: 50%;
   background: var(--background);
-  z-index: 3;
+  z-index: 1;
   overflow: hidden;
 }
 
@@ -149,14 +146,14 @@
   width: 100%;
 }
 
-/* .project-card-button-title {
+ .project-card-button-title {
   font-size: 12px;
   font-weight: 100;
 
   color: #ffffff;
   text-align: center;
   margin-bottom: 0.5rem;
-} */
+} 
 
 
 .projects-card-button {
