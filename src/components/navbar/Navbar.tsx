@@ -72,8 +72,6 @@ export default function Navbar() {
             { defaultTheme.title === 'light' && <FaSun style={{marginLeft: -20}} className='theme-switcher-icon' />}
           </div>
         </div>
-
-
       </div>
     </div>
   )

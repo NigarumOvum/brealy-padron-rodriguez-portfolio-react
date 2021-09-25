@@ -18,8 +18,8 @@ function Respositories() {
     <div className='repositories-container'>
       <BackHome />
       <div className='repositories-title'>
-        <h1>My <strong>Repos</strong>.</h1>
-        <p>In the next section<strong> my repositories </strong>Will be available to you.</p>
+        <h1>My <strong>Repositories</strong>.</h1>
+        <p>In the next section<strong> my repositories </strong>will be available to you.</p>
       </div>
 
       <div className='repositories-list'>

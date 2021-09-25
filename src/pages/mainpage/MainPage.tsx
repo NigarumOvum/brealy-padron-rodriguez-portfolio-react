@@ -68,7 +68,7 @@ function MainPage() {
       <div className='habilities-container'>
         <div className='habilities-title'>
           <h1>My <strong>Skills</strong>.</h1>
-          <p> You'll see <strong>technologies and frameworks</strong> I've worked with.</p>
+          <p> You'll see the <strong>technologies and frameworks</strong> I've worked with.</p>
         </div>
 
         <div className='habilities-cards'>
@@ -91,7 +91,7 @@ function MainPage() {
             <p>Place the mousse on the icon to see animation</p>
             <br/>
             <div style={{width: `${timer}%`}} className='timer-line'></div>
-            { timerCount < 5 ? <span>00:0{timerCount}</span> : <span>00:{timerCount}</span>}
+            { timerCount < 5 ? <span>0{timerCount}</span> : <span>0{timerCount}</span>}
           </div> 
           ) 
         }
@@ -182,7 +182,7 @@ function MainPage() {
           </div>
 
           <div className='projects-button-container'>
-            <Link to='/repositories' className='projects-button-repositories' >Watch my repos <AiOutlinePlus style={{ marginLeft: '5px' }} size={24} /></Link>
+            <Link to='/repositories' className='projects-button-repositories' >Look my repositories <AiOutlinePlus style={{ marginLeft: '5px' }} size={20} /></Link>
           </div>
       </div>
     </section>
@@ -192,23 +192,23 @@ function MainPage() {
         <div className='contact-cards'>
          <div className="contact-card-social">
             <a className='github-icon contact-card' href='https://github.com/nigarumovum' target='_blank' rel='noopener noreferrer'>
-              <AiFillGithub className='github icon' size={50} />
+              <AiFillGithub className='github icon' size={40} />
             </a>
             <a className='linkedin-icon contact-card' href='https://www.linkedin.com/in/bfpr131095' target='_blank' rel='noopener noreferrer'>
-              <FaLinkedin className='linkedin icon' size={50} />
+              <FaLinkedin className='linkedin icon' size={40} />
             </a>
             <a className='instagram-icon contact-card' href='https://instagram.com/nigarumovum' target='_blank' rel='noopener noreferrer'>
-              <FaInstagram className='instagram icon' size={50} />
+              <FaInstagram className='instagram icon' size={40} />
             </a>
             <a className='email-icon contact-card' href='mailto: bfpr131095@gmail.com' data-tip='bfpr131095@gmail.com' target='_blank' rel='noopener noreferrer'>
-              <SiGmail className='email icon' size={50} />
+              <SiGmail className='email icon' size={40} />
             </a>
          </div>
          <Link to='/direct-message' className="contact-card-dmbutton">Send a message <FiMessageSquare size={22} /></Link>
         </div>
 
         <div className='contact-title'>
-          <h2>You can <strong>contact me</strong>.</h2>
+          <h3>You can <strong>contact me</strong>.</h3>
         </div>
       </div>
       

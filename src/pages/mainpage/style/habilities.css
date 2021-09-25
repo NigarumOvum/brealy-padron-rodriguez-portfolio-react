@@ -13,17 +13,20 @@
 
 .habilities-title {
   width: 22rem;
+
 }
 
 .habilities-title h1 {
   font-size: 60px;
   line-height: 60px;
   margin-bottom: 30px;
+  
 }
 
 .habilities-title p {
   font-size: 16px;
   line-height: 10px;
+
 }
 
 .habilities-cards {
@@ -36,6 +39,7 @@
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
+  
 }
 
 .habilities-cards .card-popup {
@@ -45,7 +49,7 @@
   left: 0;
 
   margin-top: 2.5rem;
-  margin-left: 5rem;
+  margin-left: 10rem;
 
   display: flex;
   flex-direction: column;
@@ -62,7 +66,7 @@
   color: var(--background);
   backdrop-filter: blur(6px);
   border-radius: 8px;
-  box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 0 20px rgba(4, 194, 219, 0.904);
 }
 
 .habilities-cards .card-popup p {
@@ -88,7 +92,7 @@
   left: 0;
   bottom: 0;
   margin-bottom: 10px;
-  margin-left: 10px;
+  margin-left: 200px;
 }
 
 @media screen and (max-width: 1000px) {

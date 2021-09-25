@@ -21,7 +21,7 @@ export default function MessagePage() {
         <MailSent />
 
         <h1>Hi!<strong style={{ textTransform: 'capitalize' }}>{name}</strong>. Your message has been sent!</h1>
-        <span>Sometime we contact back thought email (<strong>{email}</strong>).
+        <span>Sometimes we contact back thought email (<strong>{email}</strong>).
         <br/><strong>Thank you very much!</strong></span>
 
         <BackHome />
@@ -38,7 +38,7 @@ export default function MessagePage() {
       <BackHome />
       <div className="direct-message-content">
         <div className="direct-message-title">
-          <h1><strong>Mensagem</strong> Direta.</h1>
+          <h1><strong>Direct</strong> Message</h1>
           <span>Preenchendo o formulário abaixo você vai estar se comunicando diretamente comigo. 
           <br/><strong> Toda comunicação continuará no email que você irá informar!</strong></span>
         </div>
@@ -70,7 +70,7 @@ export default function MessagePage() {
             rows={3}
           />
           <button type="submit" disabled={state.submitting}>
-            Enviar
+            Send
           </button>
         </form>
 

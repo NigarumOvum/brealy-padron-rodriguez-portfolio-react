@@ -15,10 +15,11 @@
 }
 
 .sobre-container h1 {
-  font-size: 50px;
+  font-size: 30px;
   line-height: 50px;
   max-width: 400px;
   margin-left: 30px;
+  margin-top: 200px;
 }
 
 .sobre-card {
@@ -79,4 +80,68 @@
 
 .sobre-card-information p a {
   text-decoration: underline;
+}
+
+.python-icon {
+  color: rgb(0, 16, 161);
+}
+
+.js-icon {
+  color: rgb(255, 255, 0);
+}
+
+.mong-icon {
+  color: rgb(3, 231, 15);
+}
+
+.nginx-icon {
+  color: rgb(51, 177, 58);
+}
+
+.apa-icon {
+  color: rgb(80, 23, 85);
+}
+
+.mys {
+  color: rgb(41, 116, 255);
+}
+
+.html5 {
+  color: rgb(255, 145, 0);
+}
+
+.cs {
+  color: rgb(0, 94, 216);
+}
+
+.linx {
+  color: rgb(136, 136, 136);
+}
+
+.nod {
+  color: rgb(0, 180, 60);
+}
+
+.vu {
+  color: rgb(0, 90, 30);
+}
+
+.reac {
+  color: rgb(0, 160, 253);
+}
+
+.dj {
+  color: rgb(0, 59, 20);
+}
+
+.py {
+  color: rgb(0, 25, 253);
+}
+
+.ph {
+  color: rgb(0, 36, 194);
+}
+
+div {
+  text-align: center;
 }

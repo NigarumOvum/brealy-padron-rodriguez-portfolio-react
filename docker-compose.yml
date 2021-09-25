@@ -1,12 +1,12 @@
 version: "3.8"
 services:
-  react-portfolio:
+  brealy-react-portfolio:
     build:
       context: .
     volumes:
       - .:/src
     ports:
       - 3000:3000
-    image: react-portfolio:brealy
+    image: brealy-react-portfolio:brealy
     container_name: react_container
-    command: npm start 
+    command: npm run start 

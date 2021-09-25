@@ -52,7 +52,7 @@ export default function StockProjectCard(){
       <div className='line-divisor'/>
 
         <div className='stockapp-buttons'>
-          <a href='https://stock.pedroflp.vercel.app' className="stockapp-button-openwebapp" target="_blank" rel="noopener noreferrer"><FiPackage size={22} />Acessar Dashboard</a>
+          <a href='https://brealy-padron-portfolio-react.vercel.app/' className="stockapp-button-openwebapp" target="_blank" rel="noopener noreferrer"><FiPackage size={22} />Go Dashboard</a>
 
           <FaInfoCircle 
           className="stockapp-buttons-popup-toggle"
@@ -78,8 +78,8 @@ export default function StockProjectCard(){
             </div>
           ) }
           <div className='stockapp-github-buttons'>
-            <a href='https://github.com/pedroflp/stock-app-web' target='_blank' rel="noopener noreferrer"><FaGithub size={22} /> StockApp Web</a>
-            <a href='https://github.com/pedroflp/stock-app-api' target='_blank' rel="noopener noreferrer"><FaGithub size={22} /> StockApp API</a>
+            <a href='' target='_blank' rel="noopener noreferrer"><FaGithub size={22} /> StockApp Web</a>
+            <a href='' target='_blank' rel="noopener noreferrer"><FaGithub size={22} /> StockApp API</a>
           </div>
         </div>
       </div>

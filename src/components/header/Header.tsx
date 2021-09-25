@@ -12,16 +12,18 @@ export function Header() {
      <section id='header-mainpage'>
       <div className='header-mainpage-container'>
         <div className='header-mainpage-title'>
+        <h1>Greetings! </h1>
+
           <img src={ProfileImg} alt=""/>
-          <h1>Hi! My name is <strong>Brealy Padron</strong>,</h1>
+          <h1> My name is <strong>Brealy Padron</strong>,</h1>
             <h2>
               <Typewriter
               onInit={(typewriter) => {
                 typewriter.typeString('I am')
-                typewriter.typeString(' a Front-End <strong>Developer</strong>...')
+                typewriter.typeString(' a Full-Stack <strong>Developer</strong>...')
                 .pauseFor(3000)
                 .deleteAll()
-                typewriter.typeString(' and Back-End <strong>Developer</strong>...')
+                typewriter.typeString(' and Site Reliability <strong>Engineer</strong>...')
                 .pauseFor(5000)
                 .start()
               }}
@@ -34,7 +36,7 @@ export function Header() {
               }}
             />
             </h2>
-            <p>My strong skills are <strong>HTML5, CSS3, JavaScript,</strong><strong>ReactJS (and Native), Django</strong> y <strong>NetDevOps|Devops</strong>.</p>
+            <p>My strong skills are <strong>Full-Stack Development for </strong>Web Apps & UI. I'm a <strong>Python Software Developer</strong> & also embeded with <strong>DevOps culture</strong>.</p>
         </div>
     
 

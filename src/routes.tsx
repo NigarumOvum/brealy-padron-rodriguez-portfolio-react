@@ -15,7 +15,8 @@ function Routes () {
         <Route path='/about' exact component={Sobre} />
         <Route path='/repositories' exact component={Repositories} />
         <Route path='/direct-message' exact component={MessagePage} />
-        <Route path='*' component={NotFound} />
+        <Route path='*' exact component={NotFound} />
+
      </Switch>
     </Router>
   )

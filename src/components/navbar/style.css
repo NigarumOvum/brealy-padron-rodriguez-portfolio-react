@@ -22,7 +22,7 @@
 }
 
 .navbar-container {
-  width: 80%;
+  width: 100%;
   margin: auto;
 
   display: flex;
@@ -115,6 +115,21 @@
   }
   .navbar-links-sections li {
     margin: 0 10px;
+  }
+  .theme-switcher {
+    padding-left: 10px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .navbar-container {
+    width: 90%;
+  }
+  .navbar-links-sections {
+    margin-right: 5px;
+  }
+  .navbar-links-sections li {
+    margin: 5 8px;
   }
   .theme-switcher {
     padding-left: 10px;

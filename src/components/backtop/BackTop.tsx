@@ -23,7 +23,7 @@ function BackTop() {
 
   return (
     <>
-    { showScroll && <button className='button-back-top' onClick={scrollTop}>Back to top<FiArrowRight size={30} /></button> }
+    { showScroll && <button className='button-back-top' onClick={scrollTop}>Back to top<FiArrowRight size={20} /></button> }
     </>
   )
 
