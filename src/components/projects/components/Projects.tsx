@@ -55,36 +55,11 @@ const Projects = [
     ],
   },
   {
-    icon: 'https://img.icons8.com/windows/1000/ffffff/hospital-3.png',
-    title: 'MedFamília',
-    description: 'Site de uma clínica criado para o desafio do processo trainee de 2020 da empresa EJECT.',
-    ghLink: 'https://github.com/pedroflp/trainee-projeto',
-    brLink: '',
-    tecnologias: [
-      {
-        name: 'HTML',
-        imageUrl: 'https://img.icons8.com/material-sharp/1000/6430d4/html-5.png',
-      },
-      {
-        name: 'CSS',
-        imageUrl: 'https://img.icons8.com/ios-filled/1000/6430d4/css3.png',
-      },
-      {
-        name: 'Javascript',
-        imageUrl: 'https://img.icons8.com/ios-filled/1000/6430d4/javascript.png',
-      },
-      {
-        name: 'Django',
-        imageUrl: 'https://img.icons8.com/windows/1000/6430d4/django.png',
-      }
-    ],
-  },
-  {
-    icon: 'https://img.icons8.com/material-outlined/1000/ffffff/t-shirt.png',
-    title: 'T-Shirt Store',
-    description: 'Single React Portfolio, with TypeScript',
+    icon: '',
+    title: 'Brealy Padron Portfolio',
+    description: 'This Web App is built in React & Typescript',
     ghLink: 'https://github.com/NigarumOvum/brealy-react-app',
-    brLink: 'brealy-padron-portfolio-react.vercel.app',
+    brLink: 'https://brealy-padron-portfolio-react.vercel.app/',
     tecnologias: [
       {
         name: 'ReactJS',
@@ -96,20 +71,7 @@ const Projects = [
       }
     ],
   },
-  {
-    icon: 'https://img.icons8.com/fluent-systems-regular/1000/ffffff/calculator.png',
-    title: 'UFRN Calc',
-    description: 'Site criado para calcular média semestral de alunos da Universidade Federal do Rio Grande do Norte.',
-    ghLink: 'https://github.com/pedroflp/vue-ufrn-calc',
-    brLink: '',
-    tecnologias: [
-      {
-        name: 'Vue.js',
-        imageUrl: 'https://img.icons8.com/windows/1000/6430d4/vuejs.png',
-      },
-    ],
-  },
-
+ 
 ]
 
 export default Projects;
