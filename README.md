@@ -10,10 +10,10 @@
 
   <p align='center'>  You'll need node.js installed to run this project</p>
 
-<p align='center'>You can clone this repository with the next command: </p>
+<h1 align='center'>You can clone this repository with the next command: </h1>
 <p align='center'> <strong>git clone https://github.com/NigarumOvum/brealy-react-app </strong> </p>
 
-<p align='center'>Go inside directory:</p>
+<h1 align='center'>Go inside directory:</h1>
   <p align='center'> <strong> cd brealy-react-app </strong> </p>
 
 <p align='center'>  then you can run inside the directory the command: </p>
