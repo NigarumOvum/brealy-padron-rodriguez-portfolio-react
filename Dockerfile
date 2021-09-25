@@ -1,5 +1,5 @@
 # Build react client
-FROM node:15.13-alpine
+FROM node:16-alpine
 WORKDIR /src
 ENV PATH="./node_modules/.bin:$PATH"
 COPY . .
