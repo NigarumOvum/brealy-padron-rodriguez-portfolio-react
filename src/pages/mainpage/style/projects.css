@@ -95,7 +95,7 @@
 .slide {
   background: none !important;
   height: 400px;
-  opacity: 0.3;
+  opacity: 0.8;
   transform: scale(0.9);
   transition: 0.4s ease-in-out;
   filter: blur(1px) saturate(0.3);
@@ -119,7 +119,7 @@
 .control-arrow {
   background: none !important;
   position: absolute;
-  margin: 0 -300px 0 -280px;
+  margin: 0 -60px 0 -60px;
 }
 
 .control-next::before {

@@ -525,3 +525,53 @@
     margin-left: 0 !important;
   }
 }
+
+@media screen and (max-width: 900px) {
+  .stockapp-card {
+    width: 20rem;
+  }
+  .stockapp-card::after,
+  .stockapp-card::before {
+    bottom: 165px;
+  }
+  
+  .stockapp-title p {
+    max-width: 95%;
+  }
+  .stockapp-top-content :last-child {
+    flex-direction: column;
+    align-items: flex-end;
+  }
+  .stockapp-top-content :last-child :first-child {
+    margin-right: 0px;
+    margin-bottom: 10px;
+  }
+  .stockapp-tecnologies {
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+  }
+  .stockapp-web-info{
+    border: none;
+    margin-bottom: 20px;
+  }
+  .stockapp-buttons {
+    flex-direction: column-reverse;
+  }
+  .stockapp-github-buttons {
+    margin-bottom: 15px;
+    margin-left: 0px;
+  }
+  .stockapp-button-openwebapp {
+    width: 90% !important;
+    margin-left: 8px;
+  }
+  .stockapp-buttons-popup-toggle {
+    left: 400px !important;
+    margin-left: 0 !important;
+    margin-top: 0 !important;
+  }
+  .stockapp-card .card-popup {
+    margin-left: 0 !important;
+  }
+}
