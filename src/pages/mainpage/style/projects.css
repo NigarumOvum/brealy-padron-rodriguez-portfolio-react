@@ -71,6 +71,8 @@
 
 /* CAROUSEL STYLE */
 .carousel-slider {
+  text-align: center;
+  justify-content: center;
   margin-left: -10px !important;
   margin-top: 20px !important;
   margin-bottom: 50px !important;
@@ -96,7 +98,7 @@
   background: none !important;
   height: 400px;
   opacity: 0.8;
-  transform: scale(0.9);
+  transform: scale(0.6);
   transition: 0.4s ease-in-out;
   filter: blur(1px) saturate(0.3);
   cursor: pointer !important;
@@ -104,12 +106,12 @@
 }
 
 .selected {
-  opacity: 1;
+  opacity: 3;
   transform: scale(1);
   position: relative;
   z-index: 5;
   margin: 0 20px !important;
-  filter: saturate(1);
+  filter: saturate(4);
 }
 
 .carousel {
