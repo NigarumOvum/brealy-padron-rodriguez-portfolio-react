@@ -1,9 +1,5 @@
-# Build react client
-FROM node:16-alpine
-WORKDIR /src
+FROM node:15.13-alpine
+WORKDIR /brealy-react-app
 ENV PATH="./node_modules/.bin:$PATH"
 COPY . .
-RUN npm install -g npm@7.20.3
-RUN npm i react-scripts
 RUN npm run build
-CMD ["npm","start"]

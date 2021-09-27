@@ -25,37 +25,3 @@
   width: 40px;
   margin-right: 10px;
 }
-
-.footer-left-info p {
-  font-size: 16px;
-  font-weight: 500;
-}
-
-footer p strong {
-  margin-left: 40px;
-  font-weight: 900;
-}
-
-.footer-container a {
-  border: 2px solid #04D361;
-  border-radius: 50px;
-  background: none;
-  color: #04D361;
-  padding: 5px 30px;
-  cursor: pointer;
-
-  font-size: 16px;
-  font-weight: 900;
-
-  display: flex;
-  justify-content: space-between;
-  align-content: center;
-  align-items: center;
-
-  transition: background-color 0.3s ease;
-}
-
-.footer-container a:hover {
-  background: #04D361;
-  color: rgb(32, 31, 36);
-}

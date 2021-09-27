@@ -28,8 +28,6 @@
 
 <p align='center'<strong>docker run --publish 3000:3000 react-portfolio </strong> </p>
 
-<p align='center'<strong>docker-compose build . </strong> </p>
-
 <h2 align='center'<strong>or  Docker Compose</strong> </h2>
 
 <p align='center'<strong>docker-compose build  </strong> </p>
