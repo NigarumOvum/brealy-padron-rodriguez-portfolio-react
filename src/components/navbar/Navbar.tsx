@@ -47,13 +47,6 @@ export default function Navbar() {
              </Link>
             </li>
             <li>
-            <Link to="/about">
-              <h5>
-            <Gradient dir="left-to-right" from="#00DFD8" to="#007CF0">About</Gradient>
-             </h5>
-             </Link>            
-             </li>
-            <li>
             <Link to="/#skills">
               <h5>
             <Gradient dir="left-to-right" from="#00DFD8" to="#007CF0">
@@ -63,7 +56,7 @@ export default function Navbar() {
              </Link>    
              </li>
             <li>
-            <Link to="/#projects">
+            <Link href="/#projects">
               <h5>
             <Gradient dir="left-to-right" from="#00DFD8" to="#007CF0">Projects</Gradient>
              </h5>
