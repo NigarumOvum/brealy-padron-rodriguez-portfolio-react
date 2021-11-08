@@ -14,9 +14,10 @@
   transition: 0.2s ease-in-out;
   -webkit-transition: 0.2s ease-in-out!important;
   -o-transition: 0.2s ease-in-out !important;
-
   position: relative;
-  overflow: hidden;
+  overflow-y: hidden;
+  overflow-x: hidden;
+  -webkit-overflow-scrolling: touch;
 }
 
 .projects-card:before,
