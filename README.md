@@ -1,14 +1,17 @@
 <p align='center'><img src='/src/media/images/p-logo2.png' width='100px'></p>
 <h1 align='center'> Brealy Fabian Padron Rodriguez - Portfólio </h1>
 
-<p align='center'>A portfolio app built with React Library & TypeScript</p>
+<p align='center'>My personal Portfolio Web App using Model-View-ViewModel (MVVM) architectural pattern as the core logic for the Infraestructure & UI components. You can see the components used in package.json file. </p>
 
-**Tecnologias utilizadas:**
+**Built with:**
 
 ![React](https://img.shields.io/static/v1?label=Front-end&message=ReactJS&color=61DAFB&style=for-the-badge&logo=react)
 ![Typscript](https://img.shields.io/static/v1?label=Front-end&message=Typescript&color=3178C6&style=for-the-badge&logo=typescript)
 
-  <p align='center'>  You'll need node.js installed to run this project</p>
+<p align='center'>My personal Portfolio Web App</p>
+
+
+  <p align='center'>  If you want to deploy it for test you'll need Node.js or Docker installed to run this project</p>
 
 <h1 align='center'>You can clone this repository with the next command: </h1>
 <p align='center'> <strong>git clone https://github.com/NigarumOvum/brealy-react-app </strong> </p>
