@@ -1,13 +1,9 @@
 import React from 'react';
-
 import "react-responsive-carousel/lib/styles/carousel.min.css"; 
 import { Carousel } from 'react-responsive-carousel';
-
 import { FiGithub } from 'react-icons/fi';
 import { BsLink45Deg } from 'react-icons/bs';
-
 import Projects from './components/Projects';
-
 import './style.css';
 
 

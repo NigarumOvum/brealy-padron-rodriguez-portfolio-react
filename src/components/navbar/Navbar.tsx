@@ -56,7 +56,7 @@ export default function Navbar() {
              </Link>    
              </li>
             <li>
-            <Link href="/#projects">
+            <Link to="/#projects">
               <h5>
             <Gradient dir="left-to-right" from="#00DFD8" to="#007CF0">Projects</Gradient>
              </h5>
