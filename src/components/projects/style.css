@@ -14,9 +14,7 @@
   align-items: center;
   align-content: center;
   transition: 0.2s ease-in-out;
-
-  position: relative;
-  overflow: visible;
+  overflow: hidden;
 }
 
 .projects-card:before,
