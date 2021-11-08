@@ -14,7 +14,7 @@ function ProjectCard() {
     showStatus={false}
     useKeyboardArrows={true}
     centerMode={false}
-    centerSlidePercentage={0}
+    centerSlidePercentage={200}
     showArrows={true}
     showThumbs={false}
   >
