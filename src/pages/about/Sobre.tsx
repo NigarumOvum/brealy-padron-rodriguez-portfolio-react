@@ -2,7 +2,7 @@ import React from 'react';
 
 import { TiUserOutline } from 'react-icons/ti';
 import { BiCodeAlt } from 'react-icons/bi';
-import { SiHtml5, SiJavascript, SiReact, SiDjango, SiPython, SiMysql, SiApache, SiNginx, SiLinux, SiNodeDotJs, SiVueDotJs, SiPhp, SiMongodb, SiCss3 } from 'react-icons/si';
+import { SiApache } from 'react-icons/si';
 
 import Navbar from '../../components/navbar/Navbar';
 import Footer from '../../components/footer/Footer';
