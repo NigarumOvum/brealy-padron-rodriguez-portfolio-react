@@ -40,34 +40,34 @@ function Sobre() {
             <SobreInfo text={`I have projects and experience in the most popular stacks: `} />   
 
             <SobreInfo text={`LAMP Stack: Linux | Apache | MySQL | PHP`} />    
-            { <img src="https://img.icons8.com/color/96/000000/linux--v2.png" alt="image"/>}
+            { <img src="https://img.icons8.com/color/96/000000/linux--v2.png" />}
             <SiApache className='apa-icon' size={96} />
-            { <img src="https://img.icons8.com/color/96/000000/mysql-logo.png" alt="image"/> }
-            { <img src="https://img.icons8.com/dusk/96/000000/php-logo.png" alt="image"/> }
+            { <img src="https://img.icons8.com/color/96/000000/mysql-logo.png" /> }
+            { <img src="https://img.icons8.com/dusk/96/000000/php-logo.png" /> }
             <SobreInfo text={`LEMP Stack: Linux | Nginx | MySQL | PHP`} />          
-            { <img src="https://img.icons8.com/color/96/000000/linux--v2.png" alt="image"/>}
-            { <img src="https://img.icons8.com/color/96/000000/nginx.png" alt="image"/> } 
-            { <img src="https://img.icons8.com/color/96/000000/mysql-logo.png" alt="image"/> }
-            { <img src="https://img.icons8.com/dusk/96/000000/php-logo.png" alt="image"/> }
+            { <img src="https://img.icons8.com/color/96/000000/linux--v2.png" />}
+            { <img src="https://img.icons8.com/color/96/000000/nginx.png" /> } 
+            { <img src="https://img.icons8.com/color/96/000000/mysql-logo.png" /> }
+            { <img src="https://img.icons8.com/dusk/96/000000/php-logo.png" /> }
             <SobreInfo text={`Python stack: Django | HTML5 | CSS3 | JavaScript | MySQL`} /> 
-            {<img src="https://img.icons8.com/fluency/65/000000/python.png" alt="image"/> }
-            { <img src="https://img.icons8.com/color/65/000000/django.png" alt="image" /> }
-            { <img src="https://img.icons8.com/color/65/000000/html-5--v1.png" alt="image" /> }
-            { <img src="https://img.icons8.com/color/65/000000/css3.png" alt="image"/> }
-            { <img src="https://img.icons8.com/color/65/000000/javascript--v1.png"alt="image" /> }
-            { <img src="https://img.icons8.com/color/65/000000/mysql-logo.png" alt="image"/> }
+            {<img src="https://img.icons8.com/fluency/65/000000/python.png" /> }
+            { <img src="https://img.icons8.com/color/65/000000/django.png"  /> }
+            { <img src="https://img.icons8.com/color/65/000000/html-5--v1.png"  /> }
+            { <img src="https://img.icons8.com/color/65/000000/css3.png" /> }
+            { <img src="https://img.icons8.com/color/65/000000/javascript--v1.png" /> }
+            { <img src="https://img.icons8.com/color/65/000000/mysql-logo.png" /> }
 
             <SobreInfo text={`MERN JavaScript stack- MongoDB/MySQL - Express -  React - Node.js`} /> 
-            { <img src="https://img.icons8.com/color/96/000000/javascript--v1.png" alt="image"/> }
-            { <img src="https://img.icons8.com/color/96/000000/mongodb.png" alt="image"/> }
-            { <img src="https://img.icons8.com/plasticine/100/000000/react.png" alt="image"/> }
-            { <img src="https://img.icons8.com/fluency/96/000000/node-js.png" alt="image"/>}
+            { <img src="https://img.icons8.com/color/96/000000/javascript--v1.png" /> }
+            { <img src="https://img.icons8.com/color/96/000000/mongodb.png" /> }
+            { <img src="https://img.icons8.com/plasticine/100/000000/react.png" /> }
+            { <img src="https://img.icons8.com/fluency/96/000000/node-js.png" />}
 
             <SobreInfo text={`MEVN JavaScript stack: - MongoDB/MySQL - Express -  Vue - Node.js`} />    
-            { <img src="https://img.icons8.com/color/96/000000/javascript--v1.png" alt="image"/> }
-            { <img src="https://img.icons8.com/color/96/000000/mongodb.png" alt="image"/> }
-            { <img src="https://img.icons8.com/color/96/000000/vue-js.png" alt="image"/> }
-            { <img src="https://img.icons8.com/fluency/96/000000/node-js.png" alt="image"/>}  
+            { <img src="https://img.icons8.com/color/96/000000/javascript--v1.png" /> }
+            { <img src="https://img.icons8.com/color/96/000000/mongodb.png" /> }
+            { <img src="https://img.icons8.com/color/96/000000/vue-js.png" /> }
+            { <img src="https://img.icons8.com/fluency/96/000000/node-js.png" />}  
 
           </div>
           
