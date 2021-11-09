@@ -68,7 +68,7 @@ function MainPage() {
       <div className='habilities-container'>
         <div className='habilities-title'>
           <h1>My <strong>Skills</strong>.</h1>
-          <p> You'll see the <strong>technologies and frameworks</strong> I've worked with.</p>
+          <p> You'll see the <strong>technologies</strong> I've worked with.</p>
         </div>
 
         <div className='habilities-cards'>
@@ -160,8 +160,6 @@ function MainPage() {
           >
             <FaNodeJs className='nodejs-icon' size={60} />
           </HabilitiesCard>
-
-
         </div>
       </div>
     </section>

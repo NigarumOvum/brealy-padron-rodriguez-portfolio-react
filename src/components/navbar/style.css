@@ -24,12 +24,16 @@
 .navbar-container {
   width: 100%;
   margin: auto;
-
   display: flex;
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
   align-content: center;
+}
+
+h3 {
+  font-size: 50%;
+
 }
 
 .navbar-logo {
@@ -39,6 +43,7 @@
   text-decoration: none;
   color: var(--text);
   cursor: poiter;
+  margin-left: 0px;
 }
 
 .navbar-logo img {
@@ -119,6 +124,7 @@
   .theme-switcher {
     padding-left: 10px;
   }
+  
 }
 
 @media screen and (max-width: 600px) {
@@ -134,4 +140,6 @@
   .theme-switcher {
     padding-left: 10px;
   }
+  
 }
+

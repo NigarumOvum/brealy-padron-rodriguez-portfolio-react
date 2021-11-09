@@ -5,6 +5,7 @@ import { Link } from 'react-router-dom';
 import ProfileImg from '../../media/images/profile-image.jpeg';
 
 import './style.css';
+import Gradient from 'rgt';
 
 export function Header() {
   return (
@@ -12,19 +13,22 @@ export function Header() {
      <section id='header-mainpage'>
       <div className='header-mainpage-container'>
         <div className='header-mainpage-title'>
-        <h1>Greetings! </h1>
-
+        <h1>My name is </h1>
           <img src={ProfileImg} alt=""/>
-          <h1> My name is <strong>Brealy Padron</strong>,</h1>
-            <h2>
-              <Typewriter
+          <h1> <strong>Brealy Padrón Rodríguez</strong></h1>
+          <h1>...and <strong>
+          <Gradient dir="left-to-right" from="#00DFD8" to="#007CF0">
+            I'm
+            </Gradient>
+            </strong></h1>
+             <h2>
+              <Typewriter 
               onInit={(typewriter) => {
-                typewriter.typeString('I am')
                 typewriter.typeString(' a Full-Stack <strong>Developer</strong>...')
-                .pauseFor(3000)
+                .pauseFor(1500)
                 .deleteAll()
-                typewriter.typeString(' and Site Reliability <strong>Engineer</strong>...')
-                .pauseFor(5000)
+                typewriter.typeString(' and a Site Reliability<strong> Engineer (DevOps)</strong>...')
+                .pauseFor(3500)
                 .start()
               }}
               options={{
@@ -36,13 +40,19 @@ export function Header() {
               }}
             />
             </h2>
-            <p>My strong skills are <strong>Full-Stack Development for </strong>Web Apps & UI. I'm a <strong>Python Software Developer</strong> & also embeded with <strong>DevOps culture</strong>.</p>
+            <p>
+              I consider myself as <strong> a passionate computer science student</strong>, always excited about the new technology trends.  
+            <strong> I have experience building Web Apps</strong> with <strong>OOP</strong> (Object Oriented Programming) languages like <strong>Python, </strong> 
+            & <strong>JavaScript </strong> using  <strong> ORM </strong>(Object-Relational Mapper), Class-Based and Functional Programming, 
+             following  <strong> DDD</strong> (domain-driven design),<strong> MVT</strong> (Model View Template), <strong>MVC </strong>(Model Views Controller) &
+            <strong> Hexagonal/Clean Architectures</strong>
+             </p>
         </div>
     
 
           <div className='header-buttons'>
             <a className='continuesee-button' href="/#projects">Projects</a>
-            <Link to="/about" className='seemore-button'>More about me</Link>
+            <Link to="/about" className='seemore-button'>More about my skills</Link>
           </div>
 
       </div>      

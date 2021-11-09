@@ -33,32 +33,41 @@ function Sobre() {
           <div className='sobre-card-information'>
             
             <TiUserOutline className='sobre-card-personicon' size={60} />
-            <SobreInfo text='I consider myself an enthusiastic learner, and active student with a keen interest in new technological trends, in helping others find the most effective solution to their technical problems. In addition, I always seek progress through the acquisition of new skills and knowledge; and thus, complement my professional training and personal growth, with labor trends. ' />
+            <SobreInfo text='I consider myself an enthusiastic learner, and active student with a keen interest in new technological trends, in helping others find the most effective solution to their technical problems. In addition, I always seek progress through the acquisition of new skills and knowledge' />
             
             <BiCodeAlt className='sobre-card-personicon' size={60} />
 
             <SobreInfo text={`I have projects and experience in the most popular stacks: `} />   
 
-            <SobreInfo text={`LAMP Stack: Linux | Apache | MySQL | PHP`} />        
-            <SiLinux className='linx' size={50} /> <SiApache className='apa-icon' size={50} />
-            <SiMysql className='mys' size={50} /> <SiPhp className='ph' size={50} />  
-
+            <SobreInfo text={`LAMP Stack: Linux | Apache | MySQL | PHP`} />    
+            { <img src="https://img.icons8.com/color/96/000000/linux--v2.png"/>}
+            <SiApache className='apa-icon' size={96} />
+            { <img src="https://img.icons8.com/color/96/000000/mysql-logo.png"/> }
+            { <img src="https://img.icons8.com/dusk/96/000000/php-logo.png"/> }
             <SobreInfo text={`LEMP Stack: Linux | Nginx | MySQL | PHP`} />          
-            <SiLinux className='linx' size={50} /> <SiNginx className='nginx-icon' size={50} />
-            <SiMysql className='mys' size={50} /> <SiPhp className='ph' size={50} />
-
+            { <img src="https://img.icons8.com/color/96/000000/linux--v2.png"/>}
+            { <img src="https://img.icons8.com/color/96/000000/nginx.png"/> } 
+            { <img src="https://img.icons8.com/color/96/000000/mysql-logo.png"/> }
+            { <img src="https://img.icons8.com/dusk/96/000000/php-logo.png"/> }
             <SobreInfo text={`Python stack: Django | HTML5 | CSS3 | JavaScript | MySQL`} /> 
-            <SiPython className='py' size={50} /> <SiDjango className='dj' size={50} />
-            <SiHtml5 className='html5' size={50} /> <SiCss3 className='cs' size={50} /> 
-            <SiJavascript className='js-icon' size={50} /> <SiMysql className='mys' size={50} />
+            {<img src="https://img.icons8.com/fluency/65/000000/python.png"/> }
+            { <img src="https://img.icons8.com/color/65/000000/django.png" /> }
+            { <img src="https://img.icons8.com/color/65/000000/html-5--v1.png" /> }
+            { <img src="https://img.icons8.com/color/65/000000/css3.png" /> }
+            { <img src="https://img.icons8.com/color/65/000000/javascript--v1.png" /> }
+            { <img src="https://img.icons8.com/color/65/000000/mysql-logo.png"/> }
 
             <SobreInfo text={`MERN JavaScript stack- MongoDB/MySQL - Express -  React - Node.js`} /> 
-            <SiJavascript className='js-icon' size={50} /> <SiMongodb className='mong-icon' size={50} />
-            <SiReact className='reac' size={50} /> <SiNodeDotJs className='nod' size={50} />
+            { <img src="https://img.icons8.com/color/96/000000/javascript--v1.png" /> }
+            { <img src="https://img.icons8.com/color/96/000000/mongodb.png"/> }
+            { <img src="https://img.icons8.com/plasticine/100/000000/react.png" /> }
+            { <img src="https://img.icons8.com/fluency/96/000000/node-js.png"/>}
 
             <SobreInfo text={`MEVN JavaScript stack: - MongoDB/MySQL - Express -  Vue - Node.js`} />    
-            <SiJavascript className='js-icon' size={50} /> <SiMongodb className='mong-icon' size={50} />
-            <SiVueDotJs className='vu' size={50} /> <SiNodeDotJs className='nod' size={50} />      
+            { <img src="https://img.icons8.com/color/96/000000/javascript--v1.png" /> }
+            { <img src="https://img.icons8.com/color/96/000000/mongodb.png"/> }
+            { <img src="https://img.icons8.com/color/96/000000/vue-js.png"/> }
+            { <img src="https://img.icons8.com/fluency/96/000000/node-js.png"/>}  
 
           </div>
           

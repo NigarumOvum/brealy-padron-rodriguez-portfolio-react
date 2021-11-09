@@ -10,8 +10,6 @@ import { RiMoonClearFill } from 'react-icons/ri';
 
 import PLogo from '../../media/images/p-logo2.png';
 import './style.css';
-import Gradient from 'rgt';
-
 
 export default function Navbar() {
   const { colors } = useContext(ThemeContext);
@@ -36,39 +34,20 @@ export default function Navbar() {
             <img src={PLogo} alt='Logo'/>
             <h1> </h1>
         </Link>
-      
       <div className='navbar-links'>
         <ul className='navbar-links-sections'>
             <li>
-            <Link to="/">
-              <h5>
-            <Gradient dir="left-to-right" from="#00DFD8" to="#007CF0">Home</Gradient>
-             </h5>
-             </Link>
+            <a href="/"><h5>Home</h5></a>
             </li>
             <li>
-            <Link to="/#skills">
-              <h5>
-            <Gradient dir="left-to-right" from="#00DFD8" to="#007CF0">
-              Skills
-            </Gradient>
-             </h5>
-             </Link>    
-             </li>
+            <a href="/#skills"><h5>Skills</h5></a>
+            </li>
             <li>
-            <Link to="/#projects">
-              <h5>
-            <Gradient dir="left-to-right" from="#00DFD8" to="#007CF0">Projects</Gradient>
-             </h5>
-             </Link>
-           </li>
+            <a href="/#projects"><h5>Projects</h5></a>
+            </li>
             <li>
-            <Link to="/#contact">
-              <h5>
-            <Gradient dir="left-to-right" from="#00DFD8" to="#007CF0">Contact</Gradient>
-             </h5>
-             </Link>
-          </li>
+            <a href="/#contact"><h5>Contact</h5></a>
+            </li>
           </ul>
           <div className='theme-switcher'>
             { defaultTheme.title === 'dark' && <RiMoonClearFill style={{marginLeft: 20}} className='theme-switcher-icon' />}

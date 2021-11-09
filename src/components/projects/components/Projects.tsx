@@ -4,8 +4,8 @@ const Projects = [
     icon: '',
     title: 'Web Apps',
     description: 'Simple Page with a list of Web Apps',
-    ghLink: 'https://nigarumovum.github.io/Web-Apps-Games/',
-    brLink: 'https://github.com/NigarumOvum/Web-Apps-Games',
+    ghLink: 'https://github.com/NigarumOvum/Web-Apps-Games',
+    brLink: 'https://nigarumovum.github.io/Web-Apps-Games/',
     tecnologias: [
     {
       name: 'HTML5',
@@ -94,9 +94,15 @@ const Projects = [
     ghLink: 'https://github.com/NigarumOvum/radion-react',
     brLink: 'https://radion-react.vercel.app/',
     tecnologias: [
+
       {
-        name: 'ReactJS',
-        imageUrl: 'https://img.icons8.com/ios-filled/1000/6430d4/react-native.png',
+        name: 'Javascript',
+        imageUrl: 'https://img.icons8.com/color/96/000000/javascript--v1.png',
+      },
+
+      {
+        name: 'React',
+        imageUrl: 'https://img.icons8.com/plasticine/100/000000/react.png',
       }
     ],
   },
@@ -108,9 +114,15 @@ const Projects = [
     ghLink: 'https://github.com/NigarumOvum/Its-Skin-Thing-CR-React',
     brLink: 'https://its-skin-thing-cr-react.vercel.app/',
     tecnologias: [
+
       {
-        name: 'ReactJS',
-        imageUrl: 'https://img.icons8.com/ios-filled/1000/6430d4/react-native.png',
+        name: 'Javascript',
+        imageUrl: 'https://img.icons8.com/color/96/000000/javascript--v1.png',
+      },
+
+      {
+        name: 'React',
+        imageUrl: 'https://img.icons8.com/plasticine/100/000000/react.png',
       }
     ],
   },
@@ -123,9 +135,15 @@ const Projects = [
     ghLink: 'https://github.com/NigarumOvum/NASA-API-API',
     brLink: 'https://nasa-app-api.vercel.app',
     tecnologias: [
+
       {
-        name: 'ReactJS',
-        imageUrl: 'https://img.icons8.com/ios-filled/1000/6430d4/react-native.png',
+        name: 'Javascript',
+        imageUrl: 'https://img.icons8.com/color/96/000000/javascript--v1.png',
+      },
+
+      {
+        name: 'React',
+        imageUrl: 'https://img.icons8.com/plasticine/100/000000/react.png',
       }
     ],
   },
@@ -137,9 +155,15 @@ const Projects = [
     ghLink: 'https://github.com/NigarumOvum/Movie-finder-react',
     brLink: 'https://movie-finder-react-brealy.vercel.app/',
     tecnologias: [
+
       {
-        name: 'ReactJS',
-        imageUrl: 'https://img.icons8.com/ios-filled/1000/6430d4/react-native.png',
+        name: 'Javascript',
+        imageUrl: 'https://img.icons8.com/color/96/000000/javascript--v1.png',
+      },
+
+      {
+        name: 'React',
+        imageUrl: 'https://img.icons8.com/plasticine/100/000000/react.png',
       }
     ],
   },
@@ -151,17 +175,18 @@ const Projects = [
     ghLink: 'https://github.com/NigarumOvum/brealy-react-app',
     brLink: 'https://brealy-padron-portfolio-react.vercel.app/',
     tecnologias: [
+
       {
-        name: 'ReactJS',
-        imageUrl: 'https://img.icons8.com/ios-filled/1000/6430d4/react-native.png',
+        name: 'Javascript',
+        imageUrl: 'https://img.icons8.com/color/96/000000/javascript--v1.png',
       },
+
       {
-        name: 'Typescript',
-        imageUrl: 'https://img.icons8.com/material-rounded/1000/6430d4/typescript.png',
+        name: 'React',
+        imageUrl: 'https://img.icons8.com/plasticine/100/000000/react.png',
       }
     ],
-  },
-
+  }
 ]
 
 export default Projects;
