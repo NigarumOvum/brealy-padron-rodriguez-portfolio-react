@@ -2,8 +2,8 @@ const Projects = [
 
   {
     icon: '',
-    title: 'Web Apps',
-    description: 'Simple Page with a list of Web Apps',
+    title: 'Web Apps & Games',
+    description: 'Fun Repo with a collection of self apps made in Python(Brython)/JavaScript & some recollection of HTML5 games.',
     ghLink: 'https://github.com/NigarumOvum/Web-Apps-Games',
     brLink: 'https://nigarumovum.github.io/Web-Apps-Games/',
     tecnologias: [
