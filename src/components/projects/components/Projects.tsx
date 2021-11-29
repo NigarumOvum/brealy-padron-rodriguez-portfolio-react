@@ -3,7 +3,7 @@ const Projects = [
   {
     icon: '',
     title: 'Web Apps & Games',
-    description: 'Fun Repo with a collection of self apps made in Python(Brython)/JavaScript & some recollection of HTML5 games.',
+    description: 'Fun Repo collection of apps made in Python(Brython)/JavaScript & some HTML5 games.',
     ghLink: 'https://github.com/NigarumOvum/Web-Apps-Games',
     brLink: 'https://nigarumovum.github.io/Web-Apps-Games/',
     tecnologias: [
@@ -59,8 +59,8 @@ const Projects = [
    {
     icon: '',
     title: 'NeighborDev CR',
-    description: 'My Self-Employed Web Page to offer professional services',
-    ghLink: 'https://github.com/NigarumOvum/Neighbordevcr.com',
+    description: 'Web development & Digital Marketing agency self-project',
+    ghLink: 'https://github.com/NigarumOvum/Neighbordev-CR',
     brLink: 'https://neighbordevcr.com',
     tecnologias: [
       {
@@ -72,16 +72,18 @@ const Projects = [
         imageUrl: 'https://img.icons8.com/color/96/000000/css3.png',
       },
       {
+        name: 'Sass',
+        imageUrl: 'https://img.icons8.com/ios-filled/50/000000/sass.png',
+      },
+
+      {
         name: 'Javascript',
         imageUrl: 'https://img.icons8.com/color/96/000000/javascript--v1.png',
       },
+
       {
-        name: 'jQuery',
-        imageUrl: 'https://img.icons8.com/ios-filled/50/000000/jquery.png',
-      },
-      {
-        name: 'Django',
-        imageUrl: 'https://img.icons8.com/color/96/000000/django.png',
+        name: 'Vue',
+        imageUrl: 'https://img.icons8.com/color/96/000000/vue-js.png',
       }
     ],
   },
@@ -180,7 +182,10 @@ const Projects = [
         name: 'Javascript',
         imageUrl: 'https://img.icons8.com/color/96/000000/javascript--v1.png',
       },
-
+      {
+        name: 'Typescript',
+        imageUrl: 'https://img.icons8.com/color/48/000000/typescript.png',
+      },
       {
         name: 'React',
         imageUrl: 'https://img.icons8.com/plasticine/100/000000/react.png',
