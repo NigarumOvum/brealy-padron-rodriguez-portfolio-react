@@ -108,7 +108,25 @@ const Projects = [
       }
     ],
   },
+  {
+    icon: '',
+    title: 'Tarotly',
+    description: 'Tarot WebApp',
+    ghLink: 'https://github.com/NigarumOvum/Tarotly-React',
+    brLink: 'https://tarotly-react.vercel.app/',
+    tecnologias: [
 
+      {
+        name: 'Javascript',
+        imageUrl: 'https://img.icons8.com/color/96/000000/javascript--v1.png',
+      },
+
+      {
+        name: 'React',
+        imageUrl: 'https://img.icons8.com/plasticine/100/000000/react.png',
+      }
+    ],
+  },
   {
     icon: '',
     title: 'It is a Skin Thing',
