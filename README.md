@@ -1,7 +1,7 @@
 <p align='center'><img src='/src/media/images/p-logo2.png' width='100px'></p>
 <h1 align='center'> Brealy Fabian Padron Rodriguez - Portfólio </h1>
 
-<p align='center'>My personal Portfolio Web App using Model-View-ViewModel (MVVM) architectural pattern as the core logic for the Infraestructure & UI components. You can see the components used in package.json file. </p>
+<p align='center'>My personal Portfolio Web App using Model-View-View-Model (MVVM) architectural pattern as the core logic for the Infraestructure & UI components using Typescript and CSS for styles. </p>
 
 **Built with:**
 
