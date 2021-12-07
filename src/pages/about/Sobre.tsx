@@ -35,7 +35,7 @@ function Sobre() {
             <TiUserOutline className='sobre-card-personicon' size={60} />
             <SobreInfo 
             text=
-    'I have experience building Web Applications based in OOP (Object Oriented Programming), following MVT (Model View Template), MVC (Model Views Controller) using ORM (Object-Relational Mapper) to manage & model DBs, also DDD (domain-driven design), Hexagonal & Clean Architectures. Using Class-Based and Functional Programming.' 
+    'For the SDLC, I have experience building Web Applications based in OOP (Object Oriented Programming), following DDD (domain-driven design), MVT (Model View Template), MVC (Model Views Controller), Hexagonal & Clean Architectures, also using Class-Based and Functional Programming.' 
           />
             <hr />
             <SobreInfo
@@ -57,12 +57,14 @@ function Sobre() {
           
             <SobreInfo
             text=
-            'For the DBs I know how to work with MySQL, MongoDB, PostgreSQL, MariaDB, Redis using Python/JavaScript'
+            'For the DBs I know how to work with MySQL, MongoDB, PostgreSQL, MariaDB, Redis using Python/JavaScript ORMs (Object-Relational Mapper) to manage & model DBs'
 />
 <SobreInfo
             text=
             ' Exposure to DevOps and Continuous Integration/Delivery pipeline, including Git, Jenkins, etc.'
             />
+
+
             <BiCodeAlt className='sobre-card-personicon' size={60} />
 
             <SobreInfo text={`I have projects and experience in the most popular stacks: `} />   

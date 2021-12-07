@@ -167,7 +167,52 @@ const Projects = [
       }
     ],
   },
+  {
+    icon: '',
+    title: 'Costa Rica Travel',
+    description: 'Travel Web App to show beutiful places in Costa Rica built in React',
+    ghLink: 'https://github.com/NigarumOvum/Travel-CostaRica-React',
+    brLink: 'https://travel-costa-rica-react.vercel.app/',
+    tecnologias: [
 
+      {
+        name: 'TypeScript',
+        imageUrl: 'https://img.icons8.com/color/48/000000/typescript.png',
+      },
+      {
+        name: 'CSS',
+        imageUrl: 'https://img.icons8.com/color/96/000000/css3.png',
+      },
+
+      {
+        name: 'React',
+        imageUrl: 'https://img.icons8.com/plasticine/100/000000/react.png',
+      }
+    ],
+  },
+  {
+    icon: '',
+    title: 'MacOS Web App',
+    description: 'MacOS Web App built in React',
+    ghLink: 'https://github.com/NigarumOvum/MacOS-DesktopApp-React',
+    brLink: 'https://mac-os-desktop-app-react.vercel.app/',
+    tecnologias: [
+
+      {
+        name: 'TypeScript',
+        imageUrl: 'https://img.icons8.com/color/48/000000/typescript.png',
+      },
+      {
+        name: 'CSS',
+        imageUrl: 'https://img.icons8.com/color/96/000000/css3.png',
+      },
+
+      {
+        name: 'React',
+        imageUrl: 'https://img.icons8.com/plasticine/100/000000/react.png',
+      }
+    ],
+  },
   {
     icon: '',
     title: 'Movie Finder API Web App',
@@ -179,6 +224,10 @@ const Projects = [
       {
         name: 'Javascript',
         imageUrl: 'https://img.icons8.com/color/96/000000/javascript--v1.png',
+      },
+      {
+        name: 'CSS',
+        imageUrl: 'https://img.icons8.com/color/96/000000/css3.png',
       },
 
       {
