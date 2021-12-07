@@ -15,11 +15,11 @@
 }
 
 .sobre-container h1 {
-  font-size: 30px;
+  font-size: 20px;
   line-height: 50px;
   max-width: 400px;
   margin-left: 30px;
-  margin-top: 200px;
+  margin-top: 100px;
 }
 
 .sobre-card {
@@ -71,7 +71,7 @@
 }
 
 .sobre-card-information p {
-  font-size: 1rem;
+  font-size: 0.9rem;
   font-weight: 600;
   line-height: 30px;
   margin-bottom: 30px;
