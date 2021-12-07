@@ -101,7 +101,14 @@ const Projects = [
         name: 'Javascript',
         imageUrl: 'https://img.icons8.com/color/96/000000/javascript--v1.png',
       },
-
+      {
+        name: 'CSS',
+        imageUrl: 'https://img.icons8.com/color/96/000000/css3.png',
+      },
+      {
+        name: 'Sass',
+        imageUrl: 'https://img.icons8.com/ios-filled/50/000000/sass.png',
+      },
       {
         name: 'React',
         imageUrl: 'https://img.icons8.com/plasticine/100/000000/react.png',
@@ -120,26 +127,10 @@ const Projects = [
         name: 'Javascript',
         imageUrl: 'https://img.icons8.com/color/96/000000/javascript--v1.png',
       },
-
       {
-        name: 'React',
-        imageUrl: 'https://img.icons8.com/plasticine/100/000000/react.png',
-      }
-    ],
-  },
-  {
-    icon: '',
-    title: 'It is a Skin Thing',
-    description: 'Skin Store made in React, in build process',
-    ghLink: 'https://github.com/NigarumOvum/Its-Skin-Thing-CR-React',
-    brLink: 'https://its-skin-thing-cr-react.vercel.app/',
-    tecnologias: [
-
-      {
-        name: 'Javascript',
-        imageUrl: 'https://img.icons8.com/color/96/000000/javascript--v1.png',
+        name: 'CSS',
+        imageUrl: 'https://img.icons8.com/color/96/000000/css3.png',
       },
-
       {
         name: 'React',
         imageUrl: 'https://img.icons8.com/plasticine/100/000000/react.png',
@@ -148,25 +139,6 @@ const Projects = [
   },
 
 
-  {
-    icon: '',
-    title: 'NASA API Web App',
-    description: 'This Web App is built in React',
-    ghLink: 'https://github.com/NigarumOvum/NASA-API-API',
-    brLink: 'https://nasa-app-api.vercel.app',
-    tecnologias: [
-
-      {
-        name: 'Javascript',
-        imageUrl: 'https://img.icons8.com/color/96/000000/javascript--v1.png',
-      },
-
-      {
-        name: 'React',
-        imageUrl: 'https://img.icons8.com/plasticine/100/000000/react.png',
-      }
-    ],
-  },
   {
     icon: '',
     title: 'Costa Rica Travel',
@@ -215,6 +187,32 @@ const Projects = [
   },
   {
     icon: '',
+    title: 'It is a Skin Thing',
+    description: 'Skin Store made in React, in build process',
+    ghLink: 'https://github.com/NigarumOvum/Its-Skin-Thing-CR-React',
+    brLink: 'https://its-skin-thing-cr-react.vercel.app/',
+    tecnologias: [
+
+      {
+        name: 'Javascript',
+        imageUrl: 'https://img.icons8.com/color/96/000000/javascript--v1.png',
+      },
+      {
+        name: 'CSS',
+        imageUrl: 'https://img.icons8.com/color/96/000000/css3.png',
+      },
+      {
+        name: 'Sass',
+        imageUrl: 'https://img.icons8.com/ios-filled/50/000000/sass.png',
+      },
+      {
+        name: 'React',
+        imageUrl: 'https://img.icons8.com/plasticine/100/000000/react.png',
+      }
+    ],
+  },
+  {
+    icon: '',
     title: 'Movie Finder API Web App',
     description: 'Movie Finder App made with React',
     ghLink: 'https://github.com/NigarumOvum/Movie-finder-react',
@@ -246,12 +244,12 @@ const Projects = [
     tecnologias: [
 
       {
-        name: 'Javascript',
-        imageUrl: 'https://img.icons8.com/color/96/000000/javascript--v1.png',
-      },
-      {
         name: 'Typescript',
         imageUrl: 'https://img.icons8.com/color/48/000000/typescript.png',
+      },
+      {
+        name: 'CSS',
+        imageUrl: 'https://img.icons8.com/color/96/000000/css3.png',
       },
       {
         name: 'React',
