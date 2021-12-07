@@ -12,7 +12,7 @@ export default function NotFound() {
       <div className='notfound-title'>
         <span><strong>Ooooops...</strong></span>
         <h1><strong>404</strong></h1>
-        <p>It look this page doesn´t exist!, Please try again</p>
+        <p>It look this page does not exist!. Please try again</p>
         <BackHome />
       </div>
     </div>
