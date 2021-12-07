@@ -35,7 +35,7 @@ function Sobre() {
             <TiUserOutline className='sobre-card-personicon' size={60} />
             <SobreInfo 
             text=
-    'For the SDLC, I have experience building Web Applications based in OOP (Object Oriented Programming), following DDD (domain-driven design), MVT (Model View Template), MVC (Model Views Controller), Hexagonal & Clean Architectures, also using Class-Based and Functional Programming.' 
+    'For the SDLC, I have experience building Web Applications based Waterfall/Agile methodologies with OOP (Object Oriented Programming), following DDD (domain-driven design), MVT (Model View Template), MVC (Model Views Controller), Hexagonal & Clean Architectures, also using Class-Based and Functional Programming.' 
           />
             <hr />
             <SobreInfo
