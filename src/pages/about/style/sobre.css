@@ -70,7 +70,7 @@
   color: var(--main);
 }
 
-.sobre-card-information p {
+.sobre-card-information {
   font-size: 0.9rem;
   font-weight: 600;
   line-height: 30px;
@@ -78,6 +78,11 @@
   color: var(--text) !important;
 }
 
+p {
+  font-size: 0.7rem;
+
+
+}
 .sobre-card-information p a {
   text-decoration: underline;
 }
