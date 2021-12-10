@@ -91,7 +91,7 @@ function MainPage() {
             <p>Place the mousse on the icon to see animation</p>
             <br/>
             <div style={{width: `${timer}%`}} className='timer-line'></div>
-            { timerCount < 5 ? <span>0{timerCount}</span> : <span>0{timerCount}</span>}
+            { timerCount < 5 ? <span>{timerCount}</span> : <span>{timerCount}</span>}
           </div> 
           ) 
         }

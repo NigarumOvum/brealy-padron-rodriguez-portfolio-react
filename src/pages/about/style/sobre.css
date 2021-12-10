@@ -64,10 +64,12 @@
 
 .sobre-card-information {
   clear: both;
+  
 }
 
 .sobre-card-information :first-child {
   color: var(--main);
+  
 }
 
 .sobre-card-information {
@@ -76,15 +78,28 @@
   line-height: 30px;
   margin-bottom: 30px;
   color: var(--text) !important;
+  
 }
 
 p {
-  font-size: 0.7rem;
-
+  font-size: 0.8rem;
 
 }
+
+h2 {
+ color: skyblue;
+ margin-bottom: 20px;
+
+}
+  
+hr {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
 .sobre-card-information p a {
   text-decoration: underline;
+  
 }
 
 .python-icon {
