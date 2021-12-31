@@ -5,11 +5,14 @@
 
 ![React](https://img.shields.io/static/v1?label=Front-end&message=ReactJS&color=61DAFB&style=for-the-badge&logo=react)
 ![Typscript](https://img.shields.io/static/v1?label=Front-end&message=Typescript&color=3178C6&style=for-the-badge&logo=typescript)
+<img align="left" alt="CSS3" width="26px" 
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
 
 #### Description
 
-<p align='center'>My personal Portfolio Web App using Model-View-View-Model (MVVM) architectural pattern as the core logic for the Infraestructure & UI components using Typescript, styled-components and CSS/SASS for styles.  </p>
+<p align='center'>My personal Portfolio Web App using Model-View-View-Model (MVVM) architectural pattern as the core logic for the Infraestructure & UI components using Typescript, styled-components and CSS for styles.
+Socket.io API to connect my Github repositories </p>
 
 # Commands
   <p align='center'>  If you want to deploy it for test you'll need Node.js or Docker installed to run this project</p>
