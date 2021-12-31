@@ -5,7 +5,7 @@
 
 ![React](https://img.shields.io/static/v1?label=Front-end&message=ReactJS&color=61DAFB&style=for-the-badge&logo=react)
 ![Typscript](https://img.shields.io/static/v1?label=Front-end&message=Typescript&color=3178C6&style=for-the-badge&logo=typescript)
-<img align="left" alt="CSS3" width="26px" 
+<img alt="CSS3" width="30px" 
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
 
@@ -17,10 +17,10 @@ Socket.io API to connect my Github repositories </p>
 # Commands
   <p align='center'>  If you want to deploy it for test you'll need Node.js or Docker installed to run this project</p>
 
-<h1 align='center'>You can clone this repository with the next command: </h1>
+<h3 align='center'>You can clone this repository with the next command: </h3>
 <p align='center'> <strong>git clone https://github.com/NigarumOvum/brealy-react-app </strong> </p>
 
-<h1 align='center'>Go inside directory:</h1>
+<h3 align='center'>Go inside directory:</h3>
   <p align='center'> <strong> cd brealy-react-app </strong> </p>
 
 <p align='center'>  then you can run inside the directory the command: </p>
@@ -40,7 +40,6 @@ Socket.io API to connect my Github repositories </p>
 <p align='center'<strong>docker-compose build  </strong> </p>
 
 <p align='center'<strong>docker-compose run react-portfolio </strong> </p>
-
 
 # About Me:
 
