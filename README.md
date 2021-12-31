@@ -11,9 +11,10 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 #### Description
 
-<p align='center'>My personal Portfolio Web App using Model-View-View-Model (MVVM) architectural pattern as the core logic for the Infraestructure & UI components using Typescript, styled-components and CSS for styles.
-Socket.io API to connect my Github repositories </p>
-
+<p align='center'>My personal Portfolio Web App built with React using the Model-View-View-Model (MVVM) architectural pattern as the core logic for the Structure of the view and UI components using Typescript, styled-components and CSS for styles. 
+  I'm also Using JavaScript Async/Await Fetch to connect API To retrieve My Github repositories.</p>
+  Application is also Dockerized for development and production deployment.
+  
 # Commands
   <p align='center'>  If you want to deploy it for test you'll need Node.js or Docker installed to run this project</p>
 
