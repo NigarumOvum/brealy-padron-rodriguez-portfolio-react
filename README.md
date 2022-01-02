@@ -32,7 +32,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
   <p align='center'> Now you can acces the project thought this localhost url in port 3000  </p>
   <p align='center'<strong>http://localhost:3000</strong> </p>
 
-<h2 align='center'>  or you can use Docker  </h2>
+<h2 align='center'>  also you can use Docker  </h2>
 
 <p align='center'<strong>docker build --tag react-portfolio . </strong> </p>
 
