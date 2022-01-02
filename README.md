@@ -3,7 +3,7 @@
 
 **Built with:**
 
-![React](https://img.icons8.com/plasticine/100/000000/react.png)
+![React](https://img.icons8.com/plasticine/48/000000/react.png)
 ![Typscript](https://img.icons8.com/color/48/000000/typescript.png)
 ![css3](https://img.icons8.com/color/48/000000/css3.png)
 
