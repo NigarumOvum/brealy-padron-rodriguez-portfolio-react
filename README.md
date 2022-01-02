@@ -4,7 +4,8 @@
 **Built with:**
 
 ![React](https://img.icons8.com/plasticine/100/000000/react.png)
-![Typscript](https://img.icons8.com/color/48/000000/typescript.png)(https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png)
+![Typscript](https://img.icons8.com/color/48/000000/typescript.png)
+![css3](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png)
 
 
 ## Description
