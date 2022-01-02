@@ -4,7 +4,7 @@
 **Built with:**
 
 ![React](https://img.shields.io/static/v1?label=Front-end&message=ReactJS&color=61DAFB&style=for-the-badge&logo=react)
-![Typscript](https://img.shields.io/static/v1?label=Front-end&message=Typescript&color=3178C6&style=for-the-badge&logo=typescript)
+![Typscript](https://img.icons8.com/color/48/000000/typescript.png)
 <img alt="CSS3" width="30px" 
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
