@@ -1,0 +1,89 @@
+ @function remy($value) {
+  @return ($value / 18px) * 1.2rem;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  list-style-type: none;
+}
+
+//- Card -//
+.card {
+  padding: remy(22px);
+  margin-top: remy(12px);
+  margin-right: auto;
+  margin-left: auto;
+  width: 100%;
+  max-width: remy(360px);
+  background-color: rgba(0, 0, 0, 0.295);
+  border-radius: remy(5px);
+  box-shadow: 0 20px 20px rgba(0,0,0,.18);
+}
+//- Timeline -//
+.timeline {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  text-align: left;
+
+  
+  &:before {
+    content: '';
+    position: absolute;
+    top: remy(8px);
+    // left: 50.5%;
+    width: 1px;
+    height: remy(190px);
+    background-color: rgba(255, 255, 255, .2);
+  }
+  
+  li + li {
+    margin-top: remy(12px);
+  }
+  
+  span {
+    font-size: remy(14px);
+    font-weight: 500;
+    color: rgba(255, 255, 255, .75);
+  }
+  
+  .timeline__date {
+    position: relative;
+    margin-right: remy(40px);
+    
+    &:before {
+      content: '';
+      position: absolute;
+      top: remy(4px);
+      left: 129%;
+      width: remy(8px);
+      height: remy(8px);
+      background-color: rgba(0, 0, 0, 0);
+      border: 1px solid rgba(255, 255, 255, .32);
+      border-radius: 50%;
+    }
+  }
+  
+  li:first-of-type .timeline__date {
+    margin-right: remy(42px);
+    
+    &:before {
+      content: '';
+      left: 135%;
+    }
+  }
+  
+  .timeline__description {
+    font-weight: 600;
+  }
+  .timeline__company {
+    margin-left: 50%;
+    color: #61DAFB;
+    font-size: 0.7em;
+    font-weight: 650;
+    
+  }
+}

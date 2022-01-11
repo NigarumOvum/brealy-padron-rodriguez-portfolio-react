@@ -5,7 +5,6 @@ import { Link } from 'react-router-dom';
 import ProfileImg from '../../media/images/profile-image.jpeg';
 
 import './style.css';
-import Gradient from 'rgt';
 
 export function Header() {
   return (
@@ -13,14 +12,12 @@ export function Header() {
       <section id='header-mainpage'>
         <div className='header-mainpage-container'>
           <div className='header-mainpage-title'>
-            <h1>My name is </h1>
+            <h1>I'm Brealy Padrón Rodríguez </h1>
             <img src={ProfileImg} alt="" />
-            <h1> <strong>Brealy Padrón Rodríguez</strong></h1>
-            <h1>...and <strong>
-              <Gradient dir="left-to-right" from="#00DFD8" to="#007CF0">
+            <h2> <strong></strong></h2>
+            <h2>...and <strong>
                 I'm
-              </Gradient>
-            </strong></h1>
+            </strong></h2>
             <h2>
               <Typewriter
                 onInit={(typewriter) => {
@@ -41,7 +38,7 @@ export function Header() {
               />
             </h2>
             <p>
-              I consider myself as a passionate computer science student, always curious and excited about the new technology trends with a relentless attention to details. With strong bias for action and ability to operate independently, communication and organization skills with an ability to thrive in a fast-paced production deadline-driven environment.
+              {/*  */}
             </p>
           </div>
 
