@@ -1,35 +1,45 @@
 const Projects = [
-
   {
     icon: '',
-    title: 'Web Apps & Games',
-    description: 'Fun Repo collection of apps made in Python(Brython)/JavaScript & some HTML5 games.',
-    ghLink: 'https://github.com/NigarumOvum/Web-Apps-Games',
-    brLink: 'https://nigarumovum.github.io/Web-Apps-Games/',
+    title: 'NeighborDev CR',
+    description: 'Digital Marketing & Web Development self-company',
+    ghLink: 'https://github.com/NigarumOvum/Neighbordev-CR',
+    brLink: 'https://neighbordevcr.com',
     tecnologias: [
-    {
-      name: 'HTML5',
-      imageUrl: 'https://img.icons8.com/color/96/000000/html-5--v1.png',
-    },
-    {
-      name: 'CSS',
-      imageUrl: 'https://img.icons8.com/color/96/000000/css3.png',
-    },
-    {
-      name: 'Javascript',
-      imageUrl: 'https://img.icons8.com/color/96/000000/javascript--v1.png',
-    },
-    {
-      name: 'jQuery',
-      imageUrl: 'https://img.icons8.com/ios-filled/50/000000/jquery.png',
-    }
-  ],
-},
-
+      {
+        name: 'HTML5',
+        imageUrl: 'https://img.icons8.com/color/96/000000/html-5--v1.png',
+      },
+      {
+        name: 'CSS',
+        imageUrl: 'https://img.icons8.com/color/96/000000/css3.png',
+      },
+      {
+        name: 'Sass',
+        imageUrl: 'https://img.icons8.com/ios-filled/50/000000/sass.png',
+      },
+      {
+        name: 'Javascript',
+        imageUrl: 'https://img.icons8.com/color/96/000000/javascript--v1.png',
+      },
+      {
+        name: 'jQuery',
+        imageUrl: 'https://img.icons8.com/ios-filled/50/000000/jquery.png',
+      },
+      {
+        name: 'Vue',
+        imageUrl: 'https://img.icons8.com/color/96/000000/vue-js.png',
+      },
+      {
+        name: 'MongoDB',
+        imageUrl: 'https://img.icons8.com/color/48/000000/mongodb.png',
+      }
+    ],
+  },
   {
     icon: `https://img.icons8.com/fluent-systems-regular/1000/ffffff/shop.png`,
     title: 'Tecnoelectro Comercio Online',
-    description: 'Simple Store Website with a beautiful design.',
+    description: 'Django Shop for a customer.',
     ghLink: 'https://github.com/NigarumOvum/Django-Tecnoelectro-Website',
     brLink: 'https://tecnoelectrocomercioonline.com',
     tecnologias: [
@@ -52,20 +62,24 @@ const Projects = [
       {
         name: 'Django',
         imageUrl: 'https://img.icons8.com/color/96/000000/django.png',
+      },
+      {
+        name: 'Docker',
+        imageUrl: 'https://img.icons8.com/color/48/000000/docker.png',
       }
     ],
   },
-
-   {
+  {
     icon: '',
-    title: 'NeighborDev CR',
-    description: 'Web development & Digital Marketing agency self-project',
-    ghLink: 'https://github.com/NigarumOvum/Neighbordev-CR',
-    brLink: 'https://neighbordevcr.com',
+    title: 'It is a Skin Thing',
+    description: 'Skin Store made in React.',
+    ghLink: 'https://github.com/NigarumOvum/Its-Skin-Thing-CR-React',
+    brLink: 'https://its-skin-thing-cr-react.vercel.app/',
     tecnologias: [
+
       {
-        name: 'HTML5',
-        imageUrl: 'https://img.icons8.com/color/96/000000/html-5--v1.png',
+        name: 'Javascript',
+        imageUrl: 'https://img.icons8.com/color/96/000000/javascript--v1.png',
       },
       {
         name: 'CSS',
@@ -75,20 +89,16 @@ const Projects = [
         name: 'Sass',
         imageUrl: 'https://img.icons8.com/ios-filled/50/000000/sass.png',
       },
-
       {
-        name: 'Javascript',
-        imageUrl: 'https://img.icons8.com/color/96/000000/javascript--v1.png',
+        name: 'React',
+        imageUrl: 'https://img.icons8.com/plasticine/100/000000/react.png',
       },
-
       {
-        name: 'Vue',
-        imageUrl: 'https://img.icons8.com/color/96/000000/vue-js.png',
+        name: 'MongoDB',
+        imageUrl: 'https://img.icons8.com/color/48/000000/mongodb.png',
       }
     ],
   },
-
-
   {
     icon: '',
     title: 'RadiOn - Online Radio',
@@ -137,8 +147,6 @@ const Projects = [
       }
     ],
   },
-
-
   {
     icon: '',
     title: 'Costa Rica Travel',
@@ -187,54 +195,29 @@ const Projects = [
   },
   {
     icon: '',
-    title: 'It is a Skin Thing',
-    description: 'Skin Store made in React, in build process',
-    ghLink: 'https://github.com/NigarumOvum/Its-Skin-Thing-CR-React',
-    brLink: 'https://its-skin-thing-cr-react.vercel.app/',
+    title: 'Web Apps & Games',
+    description: 'Fun Repo collection of apps made in Python(Brython)/JavaScript & some HTML5 games.',
+    ghLink: 'https://github.com/NigarumOvum/Web-Apps-Games',
+    brLink: 'https://nigarumovum.github.io/Web-Apps-Games/',
     tecnologias: [
-
-      {
-        name: 'Javascript',
-        imageUrl: 'https://img.icons8.com/color/96/000000/javascript--v1.png',
-      },
-      {
-        name: 'CSS',
-        imageUrl: 'https://img.icons8.com/color/96/000000/css3.png',
-      },
-      {
-        name: 'Sass',
-        imageUrl: 'https://img.icons8.com/ios-filled/50/000000/sass.png',
-      },
-      {
-        name: 'React',
-        imageUrl: 'https://img.icons8.com/plasticine/100/000000/react.png',
-      }
-    ],
-  },
-  {
-    icon: '',
-    title: 'Movie Finder API Web App',
-    description: 'Movie Finder App made with React',
-    ghLink: 'https://github.com/NigarumOvum/Movie-finder-react',
-    brLink: 'https://movie-finder-react-brealy.vercel.app/',
-    tecnologias: [
-
-      {
-        name: 'Javascript',
-        imageUrl: 'https://img.icons8.com/color/96/000000/javascript--v1.png',
-      },
-      {
-        name: 'CSS',
-        imageUrl: 'https://img.icons8.com/color/96/000000/css3.png',
-      },
-
-      {
-        name: 'React',
-        imageUrl: 'https://img.icons8.com/plasticine/100/000000/react.png',
-      }
-    ],
-  },
-
+    {
+      name: 'HTML5',
+      imageUrl: 'https://img.icons8.com/color/96/000000/html-5--v1.png',
+    },
+    {
+      name: 'CSS',
+      imageUrl: 'https://img.icons8.com/color/96/000000/css3.png',
+    },
+    {
+      name: 'Javascript',
+      imageUrl: 'https://img.icons8.com/color/96/000000/javascript--v1.png',
+    },
+    {
+      name: 'jQuery',
+      imageUrl: 'https://img.icons8.com/ios-filled/50/000000/jquery.png',
+    }
+  ],
+},
   {
     icon: '',
     title: 'Brealy Padron Portfolio',
