@@ -107,14 +107,14 @@ function MainPage() {
 
             <HabilitiesCard
               name='html'
-              skillPercent={90}
+              skillPercent={95}
             >
               <AiFillHtml5 className='html-icon' size={60} />
             </HabilitiesCard>
 
             <HabilitiesCard
               name='css'
-              skillPercent={85}
+              skillPercent={90}
             >
               <DiCss3 className='css-icon' size={60} />
             </HabilitiesCard>
@@ -122,42 +122,42 @@ function MainPage() {
 
             <HabilitiesCard
               name='javascript'
-              skillPercent={75}
+              skillPercent={85}
             >
               <SiJavascript className='javascript-icon' size={60} />
             </HabilitiesCard>
 
             <HabilitiesCard
               name='django'
-              skillPercent={80}
+              skillPercent={90}
             >
               <SiDjango className='django-icon' size={60} />
             </HabilitiesCard>
 
             <HabilitiesCard
               name='typescript'
-              skillPercent={65}
+              skillPercent={80}
             >
               <SiTypescript className='typescript-icon' size={60} />
             </HabilitiesCard>
 
             <HabilitiesCard
               name='reactjs'
-              skillPercent={70}
+              skillPercent={85}
             >
               <SiReact className='reactjs-icon' size={60} />
             </HabilitiesCard>
 
             <HabilitiesCard
               name='vuejs'
-              skillPercent={60}
+              skillPercent={80}
             >
               <FaVuejs className='vuejs-icon' size={60} />
             </HabilitiesCard>
 
             <HabilitiesCard
               name='nodejs'
-              skillPercent={40}
+              skillPercent={80}
             >
               <FaNodeJs className='nodejs-icon' size={60} />
             </HabilitiesCard>
