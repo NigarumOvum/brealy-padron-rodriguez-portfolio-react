@@ -112,9 +112,19 @@ function Sobre() {
 
 <SobreInfo text={`Modern CSS:`} /> <p> Styled components, CSS modules, Styled JSX.  </p>
               
-<SobreInfo text={`JavaScript:`} /> <p> ES5/ES6 Syntax, scoping, IIFE, hoisting, closures, callbacks(ES5), promises(ES6), async/wait(ES7), DOM manipulation, AJAX, jQuery, Fetch, Developer Console Debugging, complex RPC/REST APIs. </p>
+<SobreInfo text={`Linters and Formatters:`} /> <p> Prettier & ESLint  </p>
+            
+<SobreInfo text={`Module Bundlers:`} /> <p> npm scripts, Webpack, Babel, esbuild.  </p>
 
-<SobreInfo text={`Package Managers:`} /> <p> npm/yarn/bower </p>
+<SobreInfo text={`React:`} /> <p> JSX, functional/class based components, props vs state, conditional rendering, component lifecycle, Lists and Keys, Composition vs Inheritance, Hooks and Customer Hooks, Refs, Render Props, HOC, Portals, Error boundaries, Fiber Architecture. Routers, API calls, Forms, state management(Context, Redux)  </p>
+
+<SobreInfo text={`Type checkers:`} /> <p> TypeScript  </p>
+
+<SobreInfo text={`PWA:`} /> <p> Perfomance Metrics, Lightouse, DevTools. Storage, Web Sockets, Service Workers.  </p>
+
+<SobreInfo text={`Testing:`} /> <p> Integration Testing, Unit Testing, Functional testing.  </p>
+
+<SobreInfo text={`Testing libraries:`} /> <p> Jest, react-testing-library, Cypress, Enzyme, mocha, Jasmine. </p>
               
               
 
