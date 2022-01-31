@@ -108,7 +108,7 @@ function Sobre() {
 
 <SobreInfo text={`CSS Frameworks:`} /> <p>Bootstrap, Bulma, Tailwind CSS, Chakra UI, Material UI. </p>
               
-<SobreInfo text={`CSS preprocessors:`} /> <p>Sass/PostCSS </p>
+<SobreInfo text={`CSS preprocessors:`} /> <p> Sass/PostCSS </p>
 
 <SobreInfo text={`Modern CSS:`} /> <p> Styled components, CSS modules, Styled JSX.  </p>
 
@@ -120,7 +120,7 @@ function Sobre() {
             
 <SobreInfo text={`Module Bundlers:`} /> <p> npm scripts, Webpack, Babel, esbuild.  </p>
 
-<SobreInfo text={`React:`} /> <p>JSX, functional/class based components, props vs state, conditional rendering, component lifecycle, Lists and Keys, Composition vs Inheritance, Hooks and Customer Hooks, Refs, Render Props, HOC, Portals, Error boundaries, Fiber Architecture. Routers, API calls, Forms, state management(Context, Redux)  </p>
+<SobreInfo text={`React:`} /> <p> JSX, functional/class based components, props vs state, conditional rendering, component lifecycle, Lists and Keys, Composition vs Inheritance, Hooks and Customer Hooks, Refs, Render Props, HOC, Portals, Error boundaries, Fiber Architecture. Routers, API calls, Forms, state management(Context, Redux)  </p>
 
 <SobreInfo text={`Type checkers:`} /> <p> TypeScript  </p>
 
