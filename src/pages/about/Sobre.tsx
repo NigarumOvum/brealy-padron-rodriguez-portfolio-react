@@ -111,6 +111,9 @@ function Sobre() {
 <SobreInfo text={`CSS preprocessors:`} /> <p> Sass/PostCSS </p>
 
 <SobreInfo text={`Modern CSS:`} /> <p> Styled components, CSS modules, Styled JSX.  </p>
+
+              
+<SobreInfo text={`Package Managers:`} /> <p> npm/yarn/bower </p>
               
 <SobreInfo text={`Linters and Formatters:`} /> <p> Prettier & ESLint  </p>
             
