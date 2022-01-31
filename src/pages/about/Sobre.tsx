@@ -111,6 +111,11 @@ function Sobre() {
 <SobreInfo text={`CSS preprocessors:`} /> <p> Sass/PostCSS </p>
 
 <SobreInfo text={`Modern CSS:`} /> <p> Styled components, CSS modules, Styled JSX.  </p>
+              
+<SobreInfo text={`JavaScript:`} /> <p> ES5/ES6 Syntax, scope, IIFE, hoisting, closures, callbacks(ES5), promises(ES6) , async/wait(ES7), DOM manipulation, AJAX, jQuery, Fetch, Developer Console Debugging, complex RPC/REST APIs, Write unit, integration, and functional test.  </p>
+
+<SobreInfo text=
+              
 
 
     </div>
