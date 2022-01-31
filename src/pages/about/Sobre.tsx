@@ -111,6 +111,8 @@ function Sobre() {
 <SobreInfo text={`CSS preprocessors:`} /> <p> Sass/PostCSS </p>
 
 <SobreInfo text={`Modern CSS:`} /> <p> Styled components, CSS modules, Styled JSX.  </p>
+
+<SobreInfo text={`JavaScript`} /> <p> DOM manipulation. </p>
                             
 <SobreInfo text={`Package Managers:`} /> <p> npm/yarn/bower </p>
               
@@ -129,8 +131,7 @@ function Sobre() {
 <SobreInfo text={`Testing libraries:`} /> <p> Jest, react-testing-library, Cypress, Enzyme, mocha, Jasmine. </p>
               
                             <h2>Back End</h2>
-<SobreInfo text={`Django`} /> <p> Staticfiles and Mediafiles handling,CRUD operations to map Database Models, Querying the Database using many ORMs (Object Relational Mappers) with Django ORM or SQLAlchemy , DB Migrations, caching, redirect, cookies handling, CRUD,  Emails, Django REST framework, Exceptions & Error Handling </p>
-<SobreInfo text={``} /> <p>  </p>
+<SobreInfo text={`Django`} /> <p> Staticfiles and Mediafiles handling, CRUD operations to map Database Models, Querying the Database using many ORMs (Object Relational Mappers) with Django ORM or SQLAlchemy , DB Migrations, caching, redirect, cookies handling, CRUD,  Emails, Django REST framework, Exceptions & Error Handling </p>
 <!-- <SobreInfo text={``} /> <p>  </p> -->
     </div>
 {/* 
