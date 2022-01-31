@@ -108,27 +108,27 @@ function Sobre() {
 
 <SobreInfo text={`CSS Frameworks:`} /> <p>Bootstrap, Bulma, Tailwind CSS, Chakra UI, Material UI. </p>
               
-<b> CSS preprocessors: </b> <p>Sass/PostCSS </p>
+<SobreInfo text={`CSS preprocessors:`} /> <p>Sass/PostCSS </p>
 
-<b> Modern CSS: </b> <p> Styled components, CSS modules, Styled JSX.  </p>
+<SobreInfo text={`Modern CSS:`} /> <p> Styled components, CSS modules, Styled JSX.  </p>
 
-<b> JavaScript: </b> <p> ES5/ES6 Syntax, scope, IIFE, hoisting, closures, callbacks(ES5), promises(ES6) , async/wait(ES7), DOM manipulation, AJAX, jQuery, Fetch, Developer Console Debugging, complex RPC/REST APIs, Write unit, integration, and functional test.  </p>
+<SobreInfo text={`JavaScript:`} /><p> ES5/ES6 Syntax, scope, IIFE, hoisting, closures, callbacks(ES5), promises(ES6) , async/wait(ES7), DOM manipulation, AJAX, jQuery, Fetch, Developer Console Debugging, complex RPC/REST APIs, Write unit, integration, and functional test.  </p>
 
-<b> Package Managers: </b> <p> npm/yarn/bower  </p>
+<SobreInfo text={`Package Managers:`} /> <p> npm/yarn/bower  </p>
               
-<b> Linters and Formatters: </b> <p> Prettier & ESLint  </p>
+<SobreInfo text={`Linters and Formatters:`} /> <p> Prettier & ESLint  </p>
             
-<b> Module Bundlers:  </b>npm scripts, <p> Webpack, Babel, esbuild.  </p>
+<SobreInfo text={`Module Bundlers: `} /> npm scripts, <p> Webpack, Babel, esbuild.  </p>
 
-<b> React: </b> <p> SPA, PWA, JSX, functional/class based components, props vs state, conditional rendering, component lifecycle, Lists and Keys, Composition vs Inheritance, Hooks and Customer Hooks, Refs, Render Props, HOC, Portals, Error boundaries, Fiber Architecture. Routers, API calls, Forms, state management(Context, Redux)  </p>
+<SobreInfo text={`React:`} /> <p>JSX, functional/class based components, props vs state, conditional rendering, component lifecycle, Lists and Keys, Composition vs Inheritance, Hooks and Customer Hooks, Refs, Render Props, HOC, Portals, Error boundaries, Fiber Architecture. Routers, API calls, Forms, state management(Context, Redux)  </p>
 
-<b> Type checkers: </b> <p> TypeScript  </p>
+<SobreInfo text={`Type checkers:`} /> <p> TypeScript  </p>
 
-<b> PWA: </b> <p> Perfomance Metrics, Lightouse, DevTools. Storage, Web Sockets, Service Workers.  </p>
+<SobreInfo text={`PWA:`} /> <p> Perfomance Metrics, Lightouse, DevTools. Storage, Web Sockets, Service Workers.  </p>
 
-<b> Testing: </b> <p> Integration Testing, Unit Testing, Functional testing.  </p>
+<SobreInfo text={`Testing:`} /> <p> Integration Testing, Unit Testing, Functional testing.  </p>
 
-<b> Testing Frameworks/libraries: </b> <p> Jest, react-testing-library, Cypress, Enzyme, mocha, Jasmine. </p>
+<SobreInfo text={`Testing Frameworks/libraries:`} /> <p> Jest, react-testing-library, Cypress, Enzyme, mocha, Jasmine. </p>
 
     </div>
 {/* 
