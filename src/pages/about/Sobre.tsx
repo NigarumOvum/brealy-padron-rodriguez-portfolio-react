@@ -88,44 +88,49 @@ function Sobre() {
 
 
               <hr />
-              <h2>For the front-end I usually work with: </h2>
-              <p>CMS Templating: CMS platforms (WordPress, Drupal, AEM, Woocomerce, Shopify, Joomla, etc.)</p>
-              <p>Image Manipulation (Photoshop Layers manipulation)</p>
-              <p>Great Ability to take visual UX designs (PSD files, AdobeXD, Anima, Figma, Sketch designs) and convert them into semantic and standard compliant web properties. </p>
-              <p>HTML5 or PHP </p>
-              <p>I make the web pretty with CSS3 (Cross-browsing, pixel perfect concept, validation, FlexBox/Grid)</p>
-              <p>I be able to work with SASS/LESS prepocessors</p>
-              <p>JavaScript (DOM, Core, JSON, AJAX, Frameworks: jQuery)</p>
-              <p> Troubleshooting using JavaScript-based tools like Chrome Developer Console. </p>
-              <p> Build cross-browser and cross-device compatible pages according to W3C standards. </p>
-              <p> Mobile First Development & responsiveness across all cross-platform devices. </p>
-              <p> Good understanding of On-Page SEO principles. </p>
-              <p>Solid experience in using a complex RPC/REST APIs. </p>
-              <p>HTML5 Local Storage API</p>
-              <p>MVC frameworks (Vue, React)</p>
-              <p>Knowledge of Build Tools and Workflows (examples: Grunt, Gulp, Rake, Ant, Yeoman, Bower, etc.)</p>
-              <p>Experience with HTTP optimization and monitoring tools (Charles, Fiddler, HttpFox, Network tab)</p>
-              <p>Experience with web performance measurements tools: PageSpeed, YSlow </p>
-              <p> Write unit, integration, and functional test   </p>
-              <hr />
-              <h2>For the back-end I usually work with: </h2>
-              <p> Django/Python, Node/Express.  </p>
-              <p> Experience with modern serverless architectures </p>
-              <p> MySQL, PostgreSQL, MongoDB, MariaDB using Python/JavaScript ORMs (Object-Relational Mapper) to manage & model DataBases </p>
-              <p> Redis for caching DB </p>
-              <p> Optimizing database queries   </p>
-              <p> Scalable application APIs to support third party integrations   </p>
-              <p> RESTful Web Services, APIs, JSON and asynchronous data flow / Microservices development.  </p>
-              <p> Request-response API paradigms, which are REST APIs, RPC APIs and GraphQL APIs</p>
-              <p> Identify system issues and bugs and provide elegant solutions without performance overheads.  </p>
-              <p> Write unit, integration, and functional test   </p>
-              <p> Understanding of accessibility and security compliance   </p>
-              <p> Expertise participating in the design, creation, documentation of scalable and secure software.   </p>
+              <h2>Front End</h2>
+               <b> CMS Templating: </b> <p>CMS platforms (WordPress, Drupal, AEM, Woocomerce, Shopify, Joomla, etc.)  </p>
 
 
+<p> Great Ability to take visual UX designs (PSD files, AdobeXD, Anima, Figma, Sketch designs) and convert them into semantic and standard compliant web properties.  </p>
 
+<b> HTTPS, DNS & Web services  </b>
+ 
+<b> HTTP </b> <p> optimization and monitoring tools (Charles, Fiddler, HttpFox, Network tab)  </p>
 
-            </div>
+<b>Web Security: </b> <p>HTTPS, SSL/TLS Content security policy, CORS, OWASP security risks.  </p>
+
+<b>VSC: </b> <p>Git ,Github, Gitlab, Bitbucket  </p>
+
+<b>HTML/HTML5:  </b><p> Forms and validations, Accessibility, SEO principles, Local Storage API, Conventions and Best practices.  </p>
+
+<b> CSS:  </b><p> Cross-browsing, pixel perfect concept, Floats, Positioning, Display, Box Model, CSS grid, FlexBox, BEM (block element modifier), Making Layouts (Mobile First Development & responsiveness across all cross-platform devices using Media Queries).  </p>
+
+<b> CSS Frameworks: </b> <p>Bootstrap, Bulma, Tailwind CSS, Chakra UI, Material UI. </p>
+              
+<b> CSS preprocessors: </b> <p>Sass/PostCSS </p>
+
+<b> Modern CSS: </b> <p> Styled components, CSS modules, Styled JSX.  </p>
+
+<b> JavaScript: </b> <p> ES5/ES6 Syntax, scope, IIFE, hoisting, closures, callbacks(ES5), promises(ES6) , async/wait(ES7), DOM manipulation, AJAX, jQuery, Fetch, Developer Console Debugging, complex RPC/REST APIs, Write unit, integration, and functional test.  </p>
+
+<b> Package Managers: </b> <p> npm/yarn/bower  </p>
+              
+<b> Linters and Formatters: </b> <p> Prettier & ESLint  </p>
+            
+<b> Module Bundlers:  </b>npm scripts, <p> Webpack, Babel, esbuild.  </p>
+
+<b> React: </b> <p> SPA, PWA, JSX, functional/class based components, props vs state, conditional rendering, component lifecycle, Lists and Keys, Composition vs Inheritance, Hooks and Customer Hooks, Refs, Render Props, HOC, Portals, Error boundaries, Fiber Architecture. Routers, API calls, Forms, state management(Context, Redux)  </p>
+
+<b> Type checkers: </b> <p> TypeScript  </p>
+
+<b> PWA: </b> <p> Perfomance Metrics, Lightouse, DevTools. Storage, Web Sockets, Service Workers.  </p>
+
+<b> Testing: </b> <p> Integration Testing, Unit Testing, Functional testing.  </p>
+
+<b> Testing Frameworks/libraries: </b> <p> Jest, react-testing-library, Cypress, Enzyme, mocha, Jasmine. </p>
+
+    </div>
 {/* 
             <div className="contact-card-dmbutton">
               <a
