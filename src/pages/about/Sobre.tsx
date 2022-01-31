@@ -118,7 +118,7 @@ function Sobre() {
               
 <SobreInfo text={`Linters and Formatters:`} /> <p> Prettier & ESLint  </p>
             
-<SobreInfo text={`Module Bundlers: `} />  <p> npm scripts, Webpack, Babel, esbuild.  </p>
+<SobreInfo text={`Module Bundlers:`} />  <p> npm scripts, Webpack, Babel, esbuild.  </p>
 
 <SobreInfo text={`React:`} /> <p>JSX, functional/class based components, props vs state, conditional rendering, component lifecycle, Lists and Keys, Composition vs Inheritance, Hooks and Customer Hooks, Refs, Render Props, HOC, Portals, Error boundaries, Fiber Architecture. Routers, API calls, Forms, state management(Context, Redux)  </p>
 
@@ -128,7 +128,7 @@ function Sobre() {
 
 <SobreInfo text={`Testing:`} /> <p> Integration Testing, Unit Testing, Functional testing.  </p>
 
-<SobreInfo text={`Testing Frameworks/libraries:`} /> <p> Jest, react-testing-library, Cypress, Enzyme, mocha, Jasmine. </p>
+<SobreInfo text={`Testing libraries:`} /> <p> Jest, react-testing-library, Cypress, Enzyme, mocha, Jasmine. </p>
 
     </div>
 {/* 
