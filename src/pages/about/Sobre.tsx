@@ -111,8 +111,8 @@ function Sobre() {
 <SobreInfo text={`CSS preprocessors:`} /> <p> Sass/PostCSS </p>
 
 <SobreInfo text={`Modern CSS:`} /> <p> Styled components, CSS modules, Styled JSX.  </p>
-
-<SobreInfo text={`JavaScript:`} /> <p> EcmaScript 5 & 6 Syntax, scoping, IIFE, hoisting, closures, callbacks(ES5), promises(ES6), async/wait(ES7), DOM manipulation, AJAX, jQuery, Fetch, RPC/REST APIs.</p>              
+              
+<SobreInfo text={`JavaScript:`} /> <p> EcmaScript 5 & 6 Syntax, scoping, IIFE, hoisting, closures, callbacks(ES5), promises(ES6), async/wait(ES7), DOM manipulation, AJAX, jQuery, Fetch, RPC/REST APIs. </p>
               
 <SobreInfo text={`Package Managers:`} /> <p> npm/yarn/bower </p>
               
