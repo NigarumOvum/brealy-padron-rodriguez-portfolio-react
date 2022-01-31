@@ -108,6 +108,9 @@ function Sobre() {
 
 <SobreInfo text={`CSS Frameworks:`} /> <p>Bootstrap, Bulma, Tailwind CSS, Chakra UI, Material UI. </p>
               
+<SobreInfo text={`CSS preprocessors:`} /> <p> Sass/PostCSS </p>
+
+<SobreInfo text={`Modern CSS:`} /> <p> Styled components, CSS modules, Styled JSX.  </p>
 
 
     </div>
