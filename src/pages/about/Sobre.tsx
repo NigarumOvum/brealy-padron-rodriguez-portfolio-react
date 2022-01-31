@@ -89,24 +89,24 @@ function Sobre() {
 
               <hr />
               <h2>Front End</h2>
-               <SobreInfo text={`CMS Templating:`}> <p>CMS platforms (WordPress, Drupal, AEM, Woocomerce, Shopify, Joomla, etc.)  </p>
+               <SobreInfo text={`CMS Templating:`} /> <p>CMS platforms (WordPress, Drupal, AEM, Woocomerce, Shopify, Joomla, etc.)  </p>
 
 
 <p> Great Ability to take visual UX designs (PSD files, AdobeXD, Anima, Figma, Sketch designs) and convert them into semantic and standard compliant web properties.  </p>
 
-<SobreInfo text={`HTTPS, DNS & Web services`}> 
+<SobreInfo text={`HTTPS, DNS & Web services`} /> 
  
-<SobreInfo text={`HTTP`}> <p> optimization and monitoring tools (Charles, Fiddler, HttpFox, Network tab)  </p>
+<SobreInfo text={`HTTP`} /> <p> optimization and monitoring tools (Charles, Fiddler, HttpFox, Network tab)  </p>
 
-<SobreInfo text={`Web Security:`}>  <p>HTTPS, SSL/TLS Content security policy, CORS, OWASP security risks.  </p>
+<SobreInfo text={`Web Security:`} />  <p>HTTPS, SSL/TLS Content security policy, CORS, OWASP security risks.  </p>
 
-<SobreInfo text={`VSC:`}>  <p>Git ,Github, Gitlab, Bitbucket  </p>
+<SobreInfo text={`VSC:`} />  <p>Git ,Github, Gitlab, Bitbucket  </p>
 
-<SobreInfo text={`HTML/HTML5:`}> <p> Forms and validations, Accessibility, SEO principles, Local Storage API, Conventions and Best practices.  </p>
+<SobreInfo text={`HTML/HTML5:`} /> <p> Forms and validations, Accessibility, SEO principles, Local Storage API, Conventions and Best practices.  </p>
 
-<SobreInfo text={`CSS:`}> <p> Cross-browsing, pixel perfect concept, Floats, Positioning, Display, Box Model, CSS grid, FlexBox, BEM (block element modifier), Making Layouts (Mobile First Development & responsiveness across all cross-platform devices using Media Queries).  </p>
+<SobreInfo text={`CSS:`} /> <p> Cross-browsing, pixel perfect concept, Floats, Positioning, Display, Box Model, CSS grid, FlexBox, BEM (block element modifier), Making Layouts (Mobile First Development & responsiveness across all cross-platform devices using Media Queries).  </p>
 
-<SobreInfo text={`CSS Frameworks:`}> <p>Bootstrap, Bulma, Tailwind CSS, Chakra UI, Material UI. </p>
+<SobreInfo text={`CSS Frameworks:`} /> <p>Bootstrap, Bulma, Tailwind CSS, Chakra UI, Material UI. </p>
               
 <b> CSS preprocessors: </b> <p>Sass/PostCSS </p>
 
