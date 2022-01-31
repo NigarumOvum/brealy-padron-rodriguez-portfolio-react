@@ -111,8 +111,6 @@ function Sobre() {
 <SobreInfo text={`CSS preprocessors:`} /> <p> Sass/PostCSS </p>
 
 <SobreInfo text={`Modern CSS:`} /> <p> Styled components, CSS modules, Styled JSX.  </p>
-
-<SobreInfo text={`JavaScript`} /> <p> DOM manipulation. </p>
                             
 <SobreInfo text={`Package Managers:`} /> <p> npm/yarn/bower </p>
               
@@ -131,7 +129,6 @@ function Sobre() {
 <SobreInfo text={`Testing libraries:`} /> <p> Jest, react-testing-library, Cypress, Enzyme, mocha, Jasmine. </p>
               
                             <h2>Back End</h2>
-<!-- <SobreInfo text={``} /> <p>  </p> -->
     </div>
 {/* 
             <div className="contact-card-dmbutton">
