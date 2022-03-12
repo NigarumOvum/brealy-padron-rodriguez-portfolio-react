@@ -71,7 +71,7 @@ const Projects = [
   },
   {
     icon: '',
-    title: 'It is a Skin Thing',
+    title: 'Skin Thing CR',
     description: 'Skin Store made in React.',
     ghLink: 'https://github.com/NigarumOvum/Its-Skin-Thing-CR-React',
     brLink: 'https://its-skin-thing-cr-react.vercel.app/',
@@ -193,12 +193,112 @@ const Projects = [
       }
     ],
   },
+    {
+    icon: '',
+    title: ‘Song Lyrics Browser’,
+    description: ‘Browse your favorite song lyrics’,
+    ghLink: 'https://github.com/NigarumOvum/LyricSearch',
+    brLink: ‘http://lyric-search-eosin.vercel.app/',
+    tecnologias: [
+    {
+      name: 'HTML5',
+      imageUrl: 'https://img.icons8.com/color/96/000000/html-5--v1.png',
+    },
+    {
+      name: 'CSS',
+      imageUrl: 'https://img.icons8.com/color/96/000000/css3.png',
+    },
+    {
+      name: 'Javascript',
+      imageUrl: 'https://img.icons8.com/color/96/000000/javascript--v1.png',
+    },
+      {
+        name: 'Typescript',
+        imageUrl: 'https://img.icons8.com/color/48/000000/typescript.png',
+      }
+    ],
+  },
+  {
+    icon: '',
+    title: ‘Expense Tracker,
+    description: ‘Track expenses,
+    ghLink: 'https://github.com/NigarumOvum/ExpenseTracker',
+    brLink: 'http://expense-tracker-vert.vercel.app/',
+    tecnologias: [
+    {
+      name: 'HTML5',
+      imageUrl: 'https://img.icons8.com/color/96/000000/html-5--v1.png',
+    },
+    {
+      name: 'CSS',
+      imageUrl: 'https://img.icons8.com/color/96/000000/css3.png',
+    },
+    {
+      name: 'Javascript',
+      imageUrl: 'https://img.icons8.com/color/96/000000/javascript--v1.png',
+    },
+      {
+        name: 'Typescript',
+        imageUrl: 'https://img.icons8.com/color/48/000000/typescript.png',
+      }
+    ],
+  },
+  {
+    icon: '',
+    title: 'Exchange Rate',
+    description: ‘Easily track the exchange rates with many coins,
+    ghLink: 'https://github.com/NigarumOvum/ExchangeRate',
+    brLink: 'http://exchange-rate-tau.vercel.app/',
+    tecnologias: [
+    {
+      name: 'HTML5',
+      imageUrl: 'https://img.icons8.com/color/96/000000/html-5--v1.png',
+    },
+    {
+      name: 'CSS',
+      imageUrl: 'https://img.icons8.com/color/96/000000/css3.png',
+    },
+    {
+      name: 'Javascript',
+      imageUrl: 'https://img.icons8.com/color/96/000000/javascript--v1.png',
+    },
+      {
+        name: 'Typescript',
+        imageUrl: 'https://img.icons8.com/color/48/000000/typescript.png',
+      }
+    ],
+  },
+  {
+    icon: '',
+    title: ‘Meal Recipe Finder,
+    description: ‘Find meal recipes and learn how to cock them’,
+    ghLink: 'https://github.com/NigarumOvum/MealFinder',
+    brLink: 'https://meal-finder-sandy.vercel.app/',
+    tecnologias: [
+    {
+      name: 'HTML5',
+      imageUrl: 'https://img.icons8.com/color/96/000000/html-5--v1.png',
+    },
+    {
+      name: 'CSS',
+      imageUrl: 'https://img.icons8.com/color/96/000000/css3.png',
+    },
+    {
+      name: 'Javascript',
+      imageUrl: 'https://img.icons8.com/color/96/000000/javascript--v1.png',
+    },
+      {
+        name: 'Typescript',
+        imageUrl: 'https://img.icons8.com/color/48/000000/typescript.png',
+      }
+    ],
+  },
   {
     icon: '',
     title: 'Web Apps & Games',
-    description: 'Fun Repo collection of apps made in Python(Brython)/JavaScript & some HTML5 games.',
+    description: 'Fun WebSite',
     ghLink: 'https://github.com/NigarumOvum/Web-Apps-Games',
-    brLink: 'https://nigarumovum.github.io/Web-Apps-Games/',
+    brLink: 'https://web-apps-games.vercel.app/',
     tecnologias: [
     {
       name: 'HTML5',
