@@ -2,13 +2,13 @@ const Projects = [
   {
     icon: '',
     title: 'NeighborDev CR',
-    description: 'Digital Marketing & Web Development self-company',
+    description: 'Digital Marketing/Web Development self-company Website to offer services to upcomming visitors.',
     ghLink: 'https://github.com/NigarumOvum/Neighbordev-CR',
     brLink: 'https://neighbordevcr.com',
     tecnologias: [
       {
-        name: 'HTML5',
-        imageUrl: 'https://img.icons8.com/color/96/000000/html-5--v1.png',
+        name: 'Vue',
+        imageUrl: 'https://img.icons8.com/color/96/000000/vue-js.png',
       },
       {
         name: 'CSS',
@@ -27,8 +27,8 @@ const Projects = [
         imageUrl: 'https://img.icons8.com/ios-filled/50/000000/jquery.png',
       },
       {
-        name: 'Vue',
-        imageUrl: 'https://img.icons8.com/color/96/000000/vue-js.png',
+        name: 'Node',
+        imageUrl: 'https://img.icons8.com/fluency/48/000000/node-js.png',
       },
       {
         name: 'MongoDB',
@@ -39,7 +39,7 @@ const Projects = [
   {
     icon: `https://img.icons8.com/fluent-systems-regular/1000/ffffff/shop.png`,
     title: 'Tecnoelectro Comercio Online',
-    description: 'Django Shop for a customer.',
+    description: 'Shop Website that I made for a client from scratch and sell him as a profesional freelancer services.',
     ghLink: 'https://github.com/NigarumOvum/Django-Tecnoelectro-Website',
     brLink: 'https://tecnoelectrocomercioonline.com',
     tecnologias: [
@@ -64,6 +64,10 @@ const Projects = [
         imageUrl: 'https://img.icons8.com/color/96/000000/django.png',
       },
       {
+        name: 'PostgreSQL',
+        imageUrl: 'https://img.icons8.com/color/48/000000/postgreesql.png',
+      },
+      {
         name: 'Docker',
         imageUrl: 'https://img.icons8.com/color/48/000000/docker.png',
       }
@@ -72,26 +76,21 @@ const Projects = [
   {
     icon: '',
     title: 'Skin Thing CR',
-    description: 'Skin Store made in React.',
+    description: 'Skin care Store that I made for a client from scratch and sell him as a profesional freelancer services.',
     ghLink: 'https://github.com/NigarumOvum/Its-Skin-Thing-CR-React',
     brLink: 'https://its-skin-thing-cr-react.vercel.app/',
     tecnologias: [
-
       {
-        name: 'Javascript',
-        imageUrl: 'https://img.icons8.com/color/96/000000/javascript--v1.png',
-      },
-      {
-        name: 'CSS',
-        imageUrl: 'https://img.icons8.com/color/96/000000/css3.png',
+        name: 'React',
+        imageUrl: 'https://img.icons8.com/plasticine/100/000000/react.png',
       },
       {
         name: 'Sass',
         imageUrl: 'https://img.icons8.com/ios-filled/50/000000/sass.png',
       },
       {
-        name: 'React',
-        imageUrl: 'https://img.icons8.com/plasticine/100/000000/react.png',
+        name: 'Node',
+        imageUrl: 'https://img.icons8.com/fluency/48/000000/node-js.png',
       },
       {
         name: 'MongoDB',
@@ -102,14 +101,14 @@ const Projects = [
   {
     icon: '',
     title: 'RadiOn - Online Radio',
-    description: 'Online Radio Web App built in React',
+    description: 'PWA Online Radio that retrieves by genres stations from an API',
     ghLink: 'https://github.com/NigarumOvum/radion-react',
     brLink: 'https://radion-react.vercel.app/',
     tecnologias: [
 
       {
-        name: 'Javascript',
-        imageUrl: 'https://img.icons8.com/color/96/000000/javascript--v1.png',
+        name: 'React',
+        imageUrl: 'https://img.icons8.com/plasticine/100/000000/react.png',
       },
       {
         name: 'CSS',
@@ -119,32 +118,26 @@ const Projects = [
         name: 'Sass',
         imageUrl: 'https://img.icons8.com/ios-filled/50/000000/sass.png',
       },
-      {
-        name: 'React',
-        imageUrl: 'https://img.icons8.com/plasticine/100/000000/react.png',
-      }
+
     ],
   },
   {
     icon: '',
     title: 'Tarotly',
-    description: 'Tarot WebApp',
+    description: 'Tarot Web App to fun with people.',
     ghLink: 'https://github.com/NigarumOvum/Tarotly-React',
     brLink: 'https://tarotly-react.vercel.app/',
     tecnologias: [
 
       {
-        name: 'Javascript',
-        imageUrl: 'https://img.icons8.com/color/96/000000/javascript--v1.png',
+        name: 'React',
+        imageUrl: 'https://img.icons8.com/plasticine/100/000000/react.png',
       },
       {
         name: 'CSS',
         imageUrl: 'https://img.icons8.com/color/96/000000/css3.png',
       },
-      {
-        name: 'React',
-        imageUrl: 'https://img.icons8.com/plasticine/100/000000/react.png',
-      }
+
     ],
   },
   {
@@ -154,7 +147,10 @@ const Projects = [
     ghLink: 'https://github.com/NigarumOvum/Travel-CostaRica-React',
     brLink: 'https://travel-costa-rica-react.vercel.app/',
     tecnologias: [
-
+      {
+        name: 'React',
+        imageUrl: 'https://img.icons8.com/plasticine/100/000000/react.png',
+      },
       {
         name: 'TypeScript',
         imageUrl: 'https://img.icons8.com/color/48/000000/typescript.png',
@@ -163,11 +159,6 @@ const Projects = [
         name: 'CSS',
         imageUrl: 'https://img.icons8.com/color/96/000000/css3.png',
       },
-
-      {
-        name: 'React',
-        imageUrl: 'https://img.icons8.com/plasticine/100/000000/react.png',
-      }
     ],
   },
   {
@@ -177,7 +168,10 @@ const Projects = [
     ghLink: 'https://github.com/NigarumOvum/MacOS-DesktopApp-React',
     brLink: 'https://mac-os-desktop-app-react.vercel.app/',
     tecnologias: [
-
+      {
+        name: 'React',
+        imageUrl: 'https://img.icons8.com/plasticine/100/000000/react.png',
+      },
       {
         name: 'TypeScript',
         imageUrl: 'https://img.icons8.com/color/48/000000/typescript.png',
@@ -186,11 +180,6 @@ const Projects = [
         name: 'CSS',
         imageUrl: 'https://img.icons8.com/color/96/000000/css3.png',
       },
-
-      {
-        name: 'React',
-        imageUrl: 'https://img.icons8.com/plasticine/100/000000/react.png',
-      }
     ],
   },
   {
@@ -325,19 +314,18 @@ const Projects = [
     ghLink: 'https://github.com/NigarumOvum/brealy-react-app',
     brLink: 'https://brealy-padron-portfolio-react.vercel.app/',
     tecnologias: [
-
       {
-        name: 'Typescript',
+        name: 'React',
+        imageUrl: 'https://img.icons8.com/plasticine/100/000000/react.png',
+      },
+      {
+        name: 'TypeScript',
         imageUrl: 'https://img.icons8.com/color/48/000000/typescript.png',
       },
       {
         name: 'CSS',
         imageUrl: 'https://img.icons8.com/color/96/000000/css3.png',
       },
-      {
-        name: 'React',
-        imageUrl: 'https://img.icons8.com/plasticine/100/000000/react.png',
-      }
     ],
   }
 ]
