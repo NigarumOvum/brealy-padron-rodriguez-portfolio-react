@@ -193,12 +193,12 @@ const Projects = [
       }
     ],
   },
-    {
+  {
     icon: '',
-    title: ‘Song Lyrics Browser’,
-    description: ‘Browse your favorite song lyrics’,
+    title: 'Song Lyrics Browser',
+    description: 'Browse your favorite song lyrics',
     ghLink: 'https://github.com/NigarumOvum/LyricSearch',
-    brLink: ‘http://lyric-search-eosin.vercel.app/',
+    brLink: 'http://lyric-search-eosin.vercel.app/',
     tecnologias: [
     {
       name: 'HTML5',
@@ -220,8 +220,8 @@ const Projects = [
   },
   {
     icon: '',
-    title: ‘Expense Tracker,
-    description: ‘Track expenses,
+    title: 'Expense Tracker',
+    description: 'Track expenses',
     ghLink: 'https://github.com/NigarumOvum/ExpenseTracker',
     brLink: 'http://expense-tracker-vert.vercel.app/',
     tecnologias: [
@@ -246,7 +246,7 @@ const Projects = [
   {
     icon: '',
     title: 'Exchange Rate',
-    description: ‘Easily track the exchange rates with many coins,
+    description: 'Easily track the exchange rates with many coins',
     ghLink: 'https://github.com/NigarumOvum/ExchangeRate',
     brLink: 'http://exchange-rate-tau.vercel.app/',
     tecnologias: [
@@ -270,8 +270,8 @@ const Projects = [
   },
   {
     icon: '',
-    title: ‘Meal Recipe Finder,
-    description: ‘Find meal recipes and learn how to cock them’,
+    title: 'Meal Recipe Finder',
+    description: 'Find meal recipes and learn how to cock them',
     ghLink: 'https://github.com/NigarumOvum/MealFinder',
     brLink: 'https://meal-finder-sandy.vercel.app/',
     tecnologias: [
