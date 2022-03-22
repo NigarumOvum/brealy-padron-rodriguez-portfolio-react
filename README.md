@@ -10,7 +10,7 @@
 
 ## Description
 
-<p align='center'>My personal Portfolio Web App Developed with React(JSX) & TypeScript using the Model-View-View-Model (MVVM) architectural pattern, CSS/SASS/syled-components for styles.
+<p align='center'>My personal Portfolio Web App Developed with React(JSX) & TypeScript using the Model-View-View-Model (MVVM) architectural pattern, CSS and syled-components for styles.
 
 I made use of Async/Await and Fetch to connect to GitHub API to retrieve my Github Repos and using map() inside return function with a setInterval() of 1sec inside useEffect hook.
 
