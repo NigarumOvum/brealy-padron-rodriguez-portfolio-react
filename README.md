@@ -10,9 +10,11 @@
 
 ## Description
 
-<p align='center'>My personal Portfolio Web App built with React using the Model-View-View-Model (MVVM) architectural pattern as the core logic for the Structure of the view and UI components using Typescript, styled-components and CSS for styles. 
-  I'm also Using JavaScript Async/Await Fetch to connect API To retrieve My Github repositories.</p>
-  Application is also Dockerized for development and production deployment.
+<p align='center'>My personal Portfolio Web App Developed with React(JSX) & TypeScript using the Model-View-View-Model (MVVM) architectural pattern, CSS/SASS/syled-components for styles.
+
+I made use of JavaScript Async/Await Fetch to connect to GitHub API to retrieve my Github Repos and using map() inside return function with a setInterval() of 1sec inside useEffect hook.</p>
+
+Application is also Dockerized for development and production deployment.
   
 ## Front-end deployed in: Vercel
 
@@ -45,26 +47,27 @@
 
 #
 
-## Hi, I'm [Brealy Padron Rodriguez](https://github.com/NigarumOvum/) ??, a Full-Stack Developer Specialist, based in San Jose, Costa Rica
+## Hi, I'm [Brealy Padron Rodriguez](https://github.com/NigarumOvum/) 👋, a Full-Stack Developer Specialist, based in San Jose, Costa Rica
 
 # About me
 
-- ? I’m looking for amazing projects and challenges to growth my skills and achieve more experience with different technologies. ![developer](https://img.icons8.com/external-flat-juicy-fish/24/000000/external-developer-devops-flat-flat-juicy-fish-2.png)
-- ? Fun facts: I really love play video games ![videog](https://img.icons8.com/color/24/000000/controller.png), play the guitar/sing ![guitar](https://img.icons8.com/external-vitaliy-gorbachev-flat-vitaly-gorbachev/24/000000/external-guitar-camping-vitaliy-gorbachev-flat-vitaly-gorbachev.png), learn about science ![science](https://img.icons8.com/cute-clipart/24/000000/biotech.png), go to the beach ![beach](https://img.icons8.com/fluency/24/000000/beach.png), learn new technological trends very often.
+- � I’m looking for amazing projects and challenges to growth my skills and achieve more experience with different technologies. ![developer](https://img.icons8.com/external-flat-juicy-fish/24/000000/external-developer-devops-flat-flat-juicy-fish-2.png)
+- ⚡ Fun facts: I really love play video games ![videog](https://img.icons8.com/color/24/000000/controller.png), play the guitar/sing ![guitar](https://img.icons8.com/external-vitaliy-gorbachev-flat-vitaly-gorbachev/24/000000/external-guitar-camping-vitaliy-gorbachev-flat-vitaly-gorbachev.png), learn about science ![science](https://img.icons8.com/cute-clipart/24/000000/biotech.png), go to the beach ![beach](https://img.icons8.com/fluency/24/000000/beach.png), learn new technological trends very often.
 - I love the coffee! ![cofee](https://img.icons8.com/external-flat-juicy-fish/24/000000/external-developer-web-developer-flat-flat-juicy-fish-2.png)
 
-## ??You can help me by Donating
+## 🌐 Contact
+
+- [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bfpr131095/)
+- :mailbox: bfpr131095@gmail.com
+- Portfolio Website:<a href="https://brealy-padron-portfolio-react.vercel.app/">Open</a>
+- Calendly:<a href="https://calendly.com/bfpr131095/15min">Schedule</a>
+- Facetime:<a href="https://facetime.apple.com/join#v=1&p=OapXvZd3EeyFUgJCzLl09Q&k=XOTlJOL-woTsudbzkNRyNNO8xTb_DciCEWuxQ_fwdTQ">Call</a>
+- ![spotify](https://img.icons8.com/fluency/24/000000/spotify.png)<a href="https://open.spotify.com/user/r8o2g959rb1dyp8fexucl2mbr">Follow me</a>
+
+## 💰You can help me by Donating
 
 - [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/nigarumovum)
 - [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/neighbordevcr)
 
 -
 ![](https://visitcount.itsvg.in/api?id=nigarumovum&icon=0&color=0)
-
-### ??Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### ??Random Dev Meme
-
-<img src="https://random-memer.herokuapp.com/" width="512px"/>

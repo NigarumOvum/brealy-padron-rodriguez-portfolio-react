@@ -13,7 +13,7 @@ import { FiMessageSquare } from 'react-icons/fi';
 import Navbar from '../../components/navbar/Navbar';
 import Footer from '../../components/footer/Footer';
 import ProjectCard from '../../components/projects/ProjectCard';
-import Experience from '../../components/experience/Experience';
+// import Experience from '../../components/experience/Experience';
 import { Header } from '../../components/header/Header';
 // import StockProjectCard from '../../components/projects/components/StockProjectCard';
 import BackTop from '../../components/backtop/BackTop';
@@ -186,8 +186,8 @@ function MainPage() {
         </div>
       </section>
 
-      <h1>My <strong>Experience</strong></h1>
-      <Experience />
+      {/* <h1>My <strong>Experience</strong></h1>
+      <Experience /> */}
 
       <section id='contact'>
         <div className='contact-container'>

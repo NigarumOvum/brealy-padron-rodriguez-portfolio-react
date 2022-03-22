@@ -9,7 +9,7 @@ import Footer from '../../components/footer/Footer';
 import SobreInfo from '../../components/sobre/SobreInfo';
 import BackTop from '../../components/backtop/BackTop';
 
-import ProfileImg from '../../media/images/profile-image.jpeg';
+import ProfileImg from '../../media/images/profile-image.jpg';
 import './style/sobre.css';
 import BackHome from '../../components/backtohome/BackHome';
 
@@ -48,42 +48,6 @@ function Sobre() {
               />
 
               <BiCodeAlt className='sobre-card-personicon' size={60} />
-
-              <SobreInfo text={`I have projects and experience in the most popular stacks: `} />
-              <h2> LAMP Stack: </h2>
-              <SobreInfo text={`Linux | Apache | MySQL | PHP`} />
-              {<img src="https://img.icons8.com/color/48/000000/linux--v2.png" alt="12" />}
-              <SiApache className='apa-icon' size={48} />
-              {<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="12" />}
-              {<img src="https://img.icons8.com/dusk/48/000000/php-logo.png" alt="12" />}
-              <h2> LEMP Stack: </h2>
-              <SobreInfo text={`Linux | Nginx | MySQL | PHP`} />
-              {<img src="https://img.icons8.com/color/48/000000/linux--v2.png" alt="12" />}
-              {<img src="https://img.icons8.com/color/48/000000/nginx.png" alt="12" />}
-              {<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="12" />}
-              {<img src="https://img.icons8.com/dusk/48/000000/php-logo.png" alt="12" />}
-              <h2> Python Stack: </h2>
-              <SobreInfo text={`Django | HTML5 | CSS3 | JavaScript | MySQL`} />
-              {<img src="https://img.icons8.com/fluency/48/000000/python.png" alt="12" />}
-              {<img src="https://img.icons8.com/color/48/000000/django.png" alt="12" />}
-              {<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="12" />}
-              {<img src="https://img.icons8.com/color/48/000000/css3.png" alt="12" />}
-              {<img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="12" />}
-              {<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="12" />}
-              <h2> MERN JavaScript Stack: </h2>
-
-              <SobreInfo text={`MongoDB/MySQL - Express -  React - Node.js`} />
-              {<img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="12" />}
-              {<img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="12" />}
-              {<img src="https://img.icons8.com/plasticine/48/000000/react.png" alt="12" />}
-              {<img src="https://img.icons8.com/fluency/48/000000/node-js.png" alt="12" />}
-              <h2> MEVN JavaScript Stack: </h2>
-
-              <SobreInfo text={`MongoDB/MySQL - Express -  Vue - Node.js`} />
-              {<img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="12" />}
-              {<img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="12" />}
-              {<img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="12" />}
-              {<img src="https://img.icons8.com/fluency/48/000000/node-js.png" alt="12" />}
 
 
               <hr />
@@ -126,18 +90,57 @@ function Sobre() {
 <SobreInfo text={`Testing:`} /> <p> Integration Testing, Unit Testing, Functional testing.  </p>
 
 <SobreInfo text={`Testing libraries:`} /> <p> Jest, react-testing-library, Cypress, Enzyme, mocha, Jasmine. </p>
-              
+                            <hr />
+
                             <h2>Back End</h2>
     </div>
-{/* 
-            <div className="contact-card-dmbutton">
+              <hr />
+
+                          <SobreInfo text={`I have projects and experience in the most popular stacks: `} />
+              <h2> LAMP Stack: </h2>
+              <SobreInfo text={`Linux | Apache | MySQL | PHP`} />
+              {<img src="https://img.icons8.com/color/48/000000/linux--v2.png" alt="12" />}
+              <SiApache className='apa-icon' size={48} />
+              {<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="12" />}
+              {<img src="https://img.icons8.com/dusk/48/000000/php-logo.png" alt="12" />}
+              <h2> LEMP Stack: </h2>
+              <SobreInfo text={`Linux | Nginx | MySQL | PHP`} />
+              {<img src="https://img.icons8.com/color/48/000000/linux--v2.png" alt="12" />}
+              {<img src="https://img.icons8.com/color/48/000000/nginx.png" alt="12" />}
+              {<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="12" />}
+              {<img src="https://img.icons8.com/dusk/48/000000/php-logo.png" alt="12" />}
+              <h2> Python Stack: </h2>
+              <SobreInfo text={`Django | HTML5 | CSS3 | JavaScript | MySQL`} />
+              {<img src="https://img.icons8.com/fluency/48/000000/python.png" alt="12" />}
+              {<img src="https://img.icons8.com/color/48/000000/django.png" alt="12" />}
+              {<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="12" />}
+              {<img src="https://img.icons8.com/color/48/000000/css3.png" alt="12" />}
+              {<img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="12" />}
+              {<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="12" />}
+              <h2> MERN JavaScript Stack: </h2>
+
+              <SobreInfo text={`MongoDB/MySQL - Express -  React - Node.js`} />
+              {<img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="12" />}
+              {<img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="12" />}
+              {<img src="https://img.icons8.com/plasticine/48/000000/react.png" alt="12" />}
+              {<img src="https://img.icons8.com/fluency/48/000000/node-js.png" alt="12" />}
+              <h2> MEVN JavaScript Stack: </h2>
+
+              <SobreInfo text={`MongoDB/MySQL - Express -  Vue - Node.js`} />
+              {<img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="12" />}
+              {<img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="12" />}
+              {<img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="12" />}
+              {<img src="https://img.icons8.com/fluency/48/000000/node-js.png" alt="12" />}
+
+            <div
+              className="contact-card-dmbutton">
               <a
                 href="https://1drv.ms/w/s!AigvGoxRA5O6hIQ7NMNcCUweEzNswQ?e=CDGFbB"
                 download
               >
-                Downlaod Resume/CV
+                Downlaod Resume
               </a>
-            </div> */}
+            </div>
 
             <BackHome />
 
