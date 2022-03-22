@@ -36,16 +36,15 @@ function Sobre() {
               <TiUserOutline className='sobre-card-personicon' size={60} />
 
               <SobreInfo
-                text=
-                'I consider myself as a passionate computer science student, always curious and excited about the new technology trends with a relentless attention to details. With strong bias for action and ability to operate independently, communication and orgation skills with an ability to thrive in a fast-paced production deadline-driven environment.'
+                text='I consider myself as a passionate computer science student, always curious and excited about the new technology trends with a relentless attention to details. With strong bias for action and ability to operate independently, sharpen communication and organization skills with an ability to thrive in a fast-paced production deadline-driven environment. '
               />
               <SobreInfo
                 text=
-                'For the SDLC I have experience with Waterfall / Agile / Kanban / extreme Programming and DevOps (CI/CD) methodology models. I have experience building Web Applications using OOP (Object Oriented Programming), following DDD (domain-driven design), MVT (Model View Template), MVC (Model Views Controller), Hexagonal & Clean Architectures, also using Class-Based and Functional Programming.'
+                'For the SDLC I have experience with Waterfall/Agile/scrum/Kanban methodologies. Building Web Applications using many design patterns such as: MVC (Model Views Controller), MVVM (Model ViewModel View), MVP (Model View Presenter) and MVT (Model View Template). Also, use programming paradigms such as: OOP (Object Oriented Programming), DDD (domain-driven design) and architectural patterns such as: Layered, Pipe-Filter, Client-Server, Event Bus, Microservices, Broken, Peer-To-Peer, Black Board and Master-Slave. '
               />
               <SobreInfo
                 text=
-                'For the STLC I have experience with manual & automated tests at functional, non-functional & maintenance macro-level.'
+                'For the STLC I have experience with manual and automated tests at functional, non-functional & maintenance macro-level.'
               />
 
               <BiCodeAlt className='sobre-card-personicon' size={60} />
@@ -133,7 +132,7 @@ function Sobre() {
 {/* 
             <div className="contact-card-dmbutton">
               <a
-                href="https://onedrive.live.com/?cid=BA9303518C1A2F28&id=BA9303518C1A2F28%215094&parId=root&o=OneUp"
+                href="https://1drv.ms/w/s!AigvGoxRA5O6hIQ7NMNcCUweEzNswQ?e=CDGFbB"
                 download
               >
                 Downlaod Resume/CV
