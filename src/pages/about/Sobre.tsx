@@ -62,7 +62,7 @@ function Sobre() {
 
 <SobreInfo text={`HTML/HTML5:`} /> <p> Forms and validations, Accessibility, SEO principles, Local Storage API, Conventions and Best practices.  </p>
 
-<SobreInfo text={`CSS:`} /> <p> Cross-browsing, pixel perfect concept, Floats, Positioning, Display, Box Model, CSS grid, FlexBox, BEM (block element modifier), Making Layouts (Mobile First Development & responsiveness across all cross-platform devices using Media Queries).  </p>
+<SobreInfo text={`CSS:`} /> <p> Cross-browsing, pixel perfect concept, Floats, Positioning, Display, Box Model, CSS grid/FlexBox, BEM (block element modifier), Making Layouts (Mobile First Development & responsiveness across all cross-platform devices using Media Queries).  </p>
 
 <SobreInfo text={`CSS Frameworks:`} /> <p>Bootstrap, Bulma, Tailwind CSS, Chakra UI, Material UI. </p>
               
@@ -76,11 +76,13 @@ function Sobre() {
               
 <p>SOAP, REST, JSON-RPC, gRPC, GraphQL APIs</p>
               
+ <SobreInfo text={`API contraints:`} /> <p> Uniform interface, Client Server, Statelessness, Cache ability, Layered System, Code on Demand.. </p>
+              
 <SobreInfo text={`Web Security:`} /> <p>HTTPS, SSL/TLS Content security policy, CORS, OWASP security risks.  </p>
               
-<SobreInfo text={`React:`} /> <p> JSX, functional(Hooks)/class based components, props/state, component lifecycle, Lists/Keys, Composition/Inheritance, Refs, conditional rendering, Render Props, HOC, Portals, Error boundaries, API calls, Forms, state management(Context, Redux)  </p>
+<SobreInfo text={`React:`} /> <p> JSX, functional(Hooks)/class based components, props/state, component lifecycle, Lists/Keys, Router DOM, Composition/Inheritance, Refs, conditional rendering, Render Props, HOC, Portals, Error boundaries, API calls, Forms, state management(Context, Redux)  </p>
 
- <SobreInfo text={`Redux:`} /> <p> Store, Middlewares, Actions, dispatch() </p>
+ <SobreInfo text={`Redux:`} /> <p> Store, Middlewares, Actions, dispatch(), react-redux/reduxjs/toolkit </p>
              
 <SobreInfo text={`Type checkers:`} /> <p> TypeScript  </p>
                             
@@ -119,7 +121,7 @@ function Sobre() {
 
                   <SobreInfo text={`:`} /> <p> . </p>
 
-                  <SobreInfo text={`:`} /> <p> . </p>
+<!--                   <SobreInfo text={`:`} /> <p> . </p>
 
                   <SobreInfo text={`:`} /> <p> . </p>
 
@@ -133,9 +135,7 @@ function Sobre() {
 
                   <SobreInfo text={`:`} /> <p> . </p>
 
-                  <SobreInfo text={`:`} /> <p> . </p>
-
-                  <SobreInfo text={`:`} /> <p> . </p>
+                  <SobreInfo text={`:`} /> <p> . </p> -->
 
 
               
