@@ -52,18 +52,13 @@ function Sobre() {
 
               <hr />
               <h2>Front End</h2>
-               <SobreInfo text={`CMS Templating:`} /> <p>CMS platforms (WordPress, Drupal, AEM, Woocomerce, Shopify, Joomla, etc.)  </p>
+ <p> Great Ability to take visual UX designs (PSD files, AdobeXD, Anima, Figma, Sketch designs) and convert them into semantic and standard compliant web properties.  </p>
+              
+ <SobreInfo text={`CMS Templating:`} /> <p>CMS platforms (WordPress, Drupal, AEM, Woocomerce, Shopify, Joomla, etc.)  </p>
 
+ <SobreInfo text={`Headless CMS:`} /> <p> React integration (Sanity, Strapi, Contentful, GraphCMS, ButterCMS, Directs, Agility). </p>
 
-<p> Great Ability to take visual UX designs (PSD files, AdobeXD, Anima, Figma, Sketch designs) and convert them into semantic and standard compliant web properties.  </p>
-
-<SobreInfo text={`HTTPS, DNS & Web services`} /> 
- 
-<SobreInfo text={`HTTP`} /> <p> optimization and monitoring tools (Charles, Fiddler, HttpFox, Network tab)  </p>
-
-<SobreInfo text={`Web Security:`} />  <p>HTTPS, SSL/TLS Content security policy, CORS, OWASP security risks.  </p>
-
-<SobreInfo text={`VSC:`} />  <p>Git ,Github, Gitlab, Bitbucket  </p>
+<p>HTTP optimization and monitoring tools (Charles, Fiddler, HttpFox, Network tab from develoepr tools) </p>
 
 <SobreInfo text={`HTML/HTML5:`} /> <p> Forms and validations, Accessibility, SEO principles, Local Storage API, Conventions and Best practices.  </p>
 
@@ -74,6 +69,20 @@ function Sobre() {
 <SobreInfo text={`CSS preprocessors:`} /> <p> Sass/PostCSS </p>
 
 <SobreInfo text={`Modern CSS:`} /> <p> Styled components, CSS modules, Styled JSX.  </p>
+              
+ <SobreInfo text={`JavaScript:`} /> <p> ES5/ES6/ES7, DOM Manipulation, API queries, jQuery, . </p>              
+              
+<SobreInfo text={`Web services`} /> 
+              
+<p>SOAP, REST, JSON-RPC, gRPC, GraphQL APIs</p>
+              
+<SobreInfo text={`Web Security:`} /> <p>HTTPS, SSL/TLS Content security policy, CORS, OWASP security risks.  </p>
+              
+<SobreInfo text={`React:`} /> <p> JSX, functional(Hooks)/class based components, props/state, component lifecycle, Lists/Keys, Composition/Inheritance, Refs, conditional rendering, Render Props, HOC, Portals, Error boundaries, API calls, Forms, state management(Context, Redux)  </p>
+
+ <SobreInfo text={`Redux:`} /> <p> Store, Middlewares, Actions, dispatch() </p>
+             
+<SobreInfo text={`Type checkers:`} /> <p> TypeScript  </p>
                             
 <SobreInfo text={`Package Managers:`} /> <p> npm/yarn/bower </p>
               
@@ -81,18 +90,58 @@ function Sobre() {
             
 <SobreInfo text={`Module Bundlers:`} /> <p> npm scripts, Webpack, Babel, esbuild.  </p>
 
-<SobreInfo text={`React:`} /> <p> JSX, functional/class based components, props vs state, conditional rendering, component lifecycle, Lists and Keys, Composition vs Inheritance, Hooks and Customer Hooks, Refs, Render Props, HOC, Portals, Error boundaries, Fiber Architecture. Routers, API calls, Forms, state management(Context, Redux)  </p>
 
-<SobreInfo text={`Type checkers:`} /> <p> TypeScript  </p>
 
 <SobreInfo text={`PWA:`} /> <p> Perfomance Metrics, Lightouse, DevTools. Storage, Web Sockets, Service Workers.  </p>
 
 <SobreInfo text={`Testing:`} /> <p> Integration Testing, Unit Testing, Functional testing.  </p>
 
 <SobreInfo text={`Testing libraries:`} /> <p> Jest, react-testing-library, Cypress, Enzyme, mocha, Jasmine. </p>
+
+              <SobreInfo text={`VSC:`} />  <p>Git ,Github, Gitlab, Bitbucket  </p>
+
                             <hr />
 
                             <h2>Back End</h2>
+               <SobreInfo text={`Django:`} /> <p> . </p>
+              
+                 <SobreInfo text={`Node:`} /> <p> Routing, SSR, ExpressJS. </p>
+              
+                   <SobreInfo text={`API architecture:`} /> <p> Monolithic, SOA & Microservices. </p>
+
+                  <SobreInfo text={`Server Architecture:`} /> <p> Apache/Nginx. </p>
+              
+                   <SobreInfo text={`Servers:`} /> <p> Node/Express, Apache/Nginx. </p>
+
+                  <SobreInfo text={`Databases:`} /> <p> MySQL, PostgreSQL, MongoDB, DynamoDB, Redis. </p>
+
+                  <SobreInfo text={`Cloud IaaS:`} /> <p> AWS, GCP, Heroku, Vercel, Netlify. </p>
+
+                  <SobreInfo text={`:`} /> <p> . </p>
+
+                  <SobreInfo text={`:`} /> <p> . </p>
+
+                  <SobreInfo text={`:`} /> <p> . </p>
+
+                  <SobreInfo text={`:`} /> <p> . </p>
+
+                  <SobreInfo text={`:`} /> <p> . </p>
+
+                  <SobreInfo text={`:`} /> <p> . </p>
+
+                  <SobreInfo text={`:`} /> <p> . </p>
+
+                  <SobreInfo text={`:`} /> <p> . </p>
+
+                  <SobreInfo text={`:`} /> <p> . </p>
+
+                  <SobreInfo text={`:`} /> <p> . </p>
+
+
+              
+              
+              
+              
     </div>
               <hr />
 
