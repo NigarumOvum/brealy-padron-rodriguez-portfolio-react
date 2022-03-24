@@ -72,10 +72,6 @@ function Sobre() {
                 React integration (Sanity, Strapi, Contentful, GraphCMS,
                 ButterCMS, Directs, Agility).
               </p>
-              <p>
-                HTTP optimization and monitoring tools (Charles, Fiddler,
-                HttpFox, Network tab from develoepr tools)
-              </p>
               <SobreInfo text={`HTML/HTML5:`} />
               <p>
                 Forms and validations, Accessibility, SEO principles, Local
@@ -91,7 +87,7 @@ function Sobre() {
               </p>
               <SobreInfo text={`CSS Frameworks:`} />
               <p>Bootstrap, Bulma, Tailwind CSS, Chakra UI, Material UI. </p>
-              <SobreInfo text={`CSS preprocessors:`} /> <p> Sass/PostCSS </p>
+              <SobreInfo text={`CSS preprocessors:`} /> <p> SASS/LESS </p>
               <SobreInfo text={`Modern CSS:`} />
               <p> Styled components, CSS modules, Styled JSX. </p>
               <SobreInfo text={`Javascript:`} />
@@ -100,13 +96,16 @@ function Sobre() {
                 callbacks(ES5), promises(ES6), async/wait(ES7), DOM
                 manipulation, API queries, jQuery, Fetch.
               </p>
+              <SobreInfo text={`Web Security:`} />
+              <p>
+                SHA family, Hashing algorithms(script, bcrypt.), HTTP
+                optimization, HTTPS, Content Security Policy, CORS, SSL/TLS,
+                OWASP Security Risks.
+              </p>
+              <SobreInfo text={`Web Monitoring Tools:`} />
+              <p>Charles, Fiddler, HttpFox, Network tab from develoepr tools</p>
               <SobreInfo text={`API & Web services`} />
               <p>SOAP, REST, JSON-RPC, gRPC, GraphQL APIs</p>
-              <SobreInfo text={`Security:`} />
-              <p>
-                SHA family, Hashing algorithms(script, bcrypt.), HTTPS, Content
-                Security Policy, CORS, SSL/TLS, OWASP Security Risks.
-              </p>
               <SobreInfo text={`React:`} />
               <p>
                 JSX, functional(Hooks)/class based components, props/state,
@@ -122,17 +121,11 @@ function Sobre() {
                 react-redux/reduxjs/toolkit
               </p>
               <SobreInfo text={`Type checkers:`} /> <p> TypeScript </p>
-              <SobreInfo text={`Package Managers:`} /> <p> npm/yarn/bower </p>
               <SobreInfo text={`Linters and Formatters:`} />
-              <p> Prettier & ESLint </p>
+              <p> Prettier and ESLint </p>
               <SobreInfo text={`Module Bundlers:`} />
               <p> npm scripts, Webpack, Babel, esbuild. </p>
               <SobreInfo text={`Caching:`} /> <p> CDN, Redis. </p>
-              <SobreInfo text={`PWA:`} />
-              <p>
-                Perfomance Metrics, Lightouse, DevTools. Storage, Web Sockets,
-                Service Workers.
-              </p>
               <SobreInfo text={`Testing:`} />
               <p> Integration Testing, Unit Testing, Functional testing. </p>
               <SobreInfo text={`Testing libraries:`} />
