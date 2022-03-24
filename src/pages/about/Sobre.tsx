@@ -49,8 +49,14 @@ function Sobre() {
 
               <BiCodeAlt className='sobre-card-personicon' size={60} />
 
-
               <hr />
+              
+              <SobreInfo text={`Design and Development Principles:`} />  <p>GOF, DDD, TDD, SOLID, KISS, YAGNI, DRY.</p>
+<SobreInfo text={`VSC:`} />  <p>Git (Github, Gitlab, Bitbucket)  </p>
+<SobreInfo text={`Git:`} />  <p>Commit, Pull, Branch, Merging.  </p>
+<SobreInfo text={`CI/CD:`} />  <p>GitHub Actions, GitLab CI, Jenkins </p>
+
+              
               <h2>Front End</h2>
  <p> Great Ability to take visual UX designs (PSD files, AdobeXD, Anima, Figma, Sketch designs) and convert them into semantic and standard compliant web properties.  </p>
               
@@ -70,17 +76,13 @@ function Sobre() {
 
 <SobreInfo text={`Modern CSS:`} /> <p> Styled components, CSS modules, Styled JSX.  </p>
               
- <SobreInfo text={`JavaScript:`} /> <p> ES5/ES6/ES7, DOM Manipulation, API queries, jQuery, . </p>              
+<SobreInfo text={`JavaScript:`} /> <p> ES5/ES6/ES7, DOM Manipulation, API queries, jQuery, . </p>              
               
-<SobreInfo text={`Web services`} /> 
+<SobreInfo text={`API & Web services`} /> <p>SOAP, REST, JSON-RPC, gRPC, GraphQL APIs</p>
+                            
+<SobreInfo text={`Security:`} /> <p> SHA family, Hashing algorithms(script, bcrypt.), HTTPS, Content Security Policy, CORS, SSL/TLS, OWASP Security Risks. </p>
               
-<p>SOAP, REST, JSON-RPC, gRPC, GraphQL APIs</p>
-              
- <SobreInfo text={`API contraints:`} /> <p> Uniform interface, Client Server, Statelessness, Cache ability, Layered System, Code on Demand.. </p>
-              
-<SobreInfo text={`Web Security:`} /> <p>HTTPS, SSL/TLS Content security policy, CORS, OWASP security risks.  </p>
-              
-<SobreInfo text={`React:`} /> <p> JSX, functional(Hooks)/class based components, props/state, component lifecycle, Lists/Keys, Router DOM, Composition/Inheritance, Refs, conditional rendering, Render Props, HOC, Portals, Error boundaries, API calls, Forms, state management(Context, Redux)  </p>
+<SobreInfo text={`React:`} /> <p> JSX, functional(Hooks)/class based components, props/state, component lifecycle, Lists/Keys, Router DOM, Composition/Inheritance, Refs, conditional rendering, Render Props, HOC, Portals, Error boundaries, CRUD, API calls, Forms, state management(Context, Redux)  </p>
 
  <SobreInfo text={`Redux:`} /> <p> Store, Middlewares, Actions, dispatch(), react-redux/reduxjs/toolkit </p>
              
@@ -92,35 +94,45 @@ function Sobre() {
             
 <SobreInfo text={`Module Bundlers:`} /> <p> npm scripts, Webpack, Babel, esbuild.  </p>
 
-
+<SobreInfo text={`Caching:`} /> <p> CDN, Redis. </p>
 
 <SobreInfo text={`PWA:`} /> <p> Perfomance Metrics, Lightouse, DevTools. Storage, Web Sockets, Service Workers.  </p>
 
 <SobreInfo text={`Testing:`} /> <p> Integration Testing, Unit Testing, Functional testing.  </p>
 
 <SobreInfo text={`Testing libraries:`} /> <p> Jest, react-testing-library, Cypress, Enzyme, mocha, Jasmine. </p>
-
-              <SobreInfo text={`VSC:`} />  <p>Git ,Github, Gitlab, Bitbucket  </p>
+              
 
                             <hr />
 
                             <h2>Back End</h2>
+              
+              <SobreInfo text={`API architecture:`} /> <p> Monolithic, SOA & Microservices. </p>
+               <SobreInfo text={`API contraints:`} /> <p> Uniform interface, Client Server, Statelessness, Cache ability, Layered System, Code on Demand. </p>
+             <SobreInfo text={`API & Web services`} /> <p>SOAP, REST, JSON-RPC, gRPC, GraphQL APIs</p>
+
                <SobreInfo text={`Django:`} /> <p> . </p>
               
-                 <SobreInfo text={`Node:`} /> <p> Routing, SSR, ExpressJS. </p>
-              
-                   <SobreInfo text={`API architecture:`} /> <p> Monolithic, SOA & Microservices. </p>
+                 <SobreInfo text={`Node:`} /> <p> Routing, ExpressJS, SSR. </p>
 
                   <SobreInfo text={`Server Architecture:`} /> <p> Apache/Nginx. </p>
               
                    <SobreInfo text={`Servers:`} /> <p> Node/Express, Apache/Nginx. </p>
+  
+              <SobreInfo text={`Databases:`} /> <p> ORM, ACID Transactions, N+1 Problem, Normalization. Data replication, Sharding Strategies, CAP Theorem.. </p>
+              <SobreInfo text={`SQL:`} /> <p> PostgreSQL,  MySQL, MS SQL, Oracle SQL.</p>
+              <SobreInfo text={`NoSQL:`} /> <p> MongoDB, RethinkDB, DynamoDB.</p>
+              
+              <SobreInfo text={`Caching:`} /> <p> CDN, Redis. </p>
+                  
+               <SobreInfo text={`Cloud IaaS:`} /> <p> AWS, GCP, Heroku, Vercel, Netlify. </p>
 
-                  <SobreInfo text={`Databases:`} /> <p> MySQL, PostgreSQL, MongoDB, DynamoDB, Redis. </p>
+<SobreInfo text={`Testing:`} /> <p> Integration Testing, Unit Testing, Functional testing.  </p>
 
-                  <SobreInfo text={`Cloud IaaS:`} /> <p> AWS, GCP, Heroku, Vercel, Netlify. </p>
 
-                  <SobreInfo text={`:`} /> <p> . </p>
-
+              <SobreInfo text={`Security:`} /> <p> SHA family, Hashing algorithms(script, bcrypt.), HTTPS, Content Security Policy, CORS, SSL/TLS, OWASP Security Risks. </p>
+              <SobreInfo text={`:`} /> <p> . </p>
+              
 <!--                   <SobreInfo text={`:`} /> <p> . </p>
 
                   <SobreInfo text={`:`} /> <p> . </p>
