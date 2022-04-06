@@ -35,19 +35,18 @@ function Sobre() {
               <SobreInfo text="I consider myself as a passionate computer science student, always curious and excited about the new technology trends with a relentless attention to details. With strong bias for action and ability to operate independently, sharpen communication and organization skills with an ability to thrive in a fast-paced production deadline-driven environment. " />
               <SobreInfo text="For the SDLC I have experience with Waterfall/Agile/scrum/Kanban methodologies. Building Web Applications using many design patterns such as: MVC (Model Views Controller), MVVM (Model ViewModel View), MVP (Model View Presenter) and MVT (Model View Template). Also, use programming paradigms such as: OOP (Object Oriented Programming), DDD (domain-driven design) and architectural patterns such as: Layered, Pipe-Filter, Client-Server, Event Bus, Microservices, Broken, Peer-To-Peer, Black Board and Master-Slave. " />
               <SobreInfo text="For the STLC I have experience with manual and automated tests at functional, non-functional & maintenance macro-level." />
-              <BiCodeAlt className="sobre-card-personicon" size={60} />
               <hr />
+              <BiCodeAlt className="sobre-card-personicon" size={60} />
               <SobreInfo text={`Design and Development Principles:`} />
               <p>GOF, DDD, TDD, SOLID, KISS, YAGNI, DRY.</p>
               <SobreInfo text={`Software Architecture:`} />
               <p>
-                {" "}
                 Monolithic, Service Oriented Architecture (SOA) and
-                Microservices.{" "}
+                Microservices.
               </p>
               <SobreInfo text={`VSC:`} />
               <p>Git (Github, Gitlab, Bitbucket) </p>
-              <SobreInfo text={`Git:`} /> <p>Commit, Pull, Branch, Merging. </p>
+              <SobreInfo text={`GitFlow:`} /> <p>Commit, Push, Pull, Branch, Merge, rebase. </p>
               <SobreInfo text={`CI/CD:`} />
               <p>GitHub Actions, GitLab CI, Jenkins </p>
               <SobreInfo text={`Jira:`} />
@@ -104,7 +103,7 @@ function Sobre() {
               </p>
               <SobreInfo text={`Web Monitoring Tools:`} />
               <p>Charles, Fiddler, HttpFox, Network tab from develoepr tools</p>
-              <SobreInfo text={`API & Web services`} />
+              <SobreInfo text={`Web services`} />
               <p>SOAP, REST, JSON-RPC, gRPC, GraphQL APIs</p>
               <SobreInfo text={`React:`} />
               <p>
@@ -145,14 +144,13 @@ function Sobre() {
               <p>
                 Staticfiles and Mediafiles handling, CRUD operations to map
                 Database Models, Querying the Database using many ORMs (Object
-                Relational Mappers) with Django ORM or SQLAlchemy , DB
-                Migrations, caching, redirect, cookies handling, CRUD, Emails,
-                Django REST framework, Exceptions & Error Handling.
+                Relational Mappers) with Django ORM, psycopg2 or SQLAlchemy , DB
+                Migrations, caching, redirect, cookies handling, CRUD, Emails, 
+                Exceptions & Error Handling.
               </p>
+               <SobreInfo text={` Django REST framework:`} /> <p> Build REST APIs that works with CRUD operations & serialize data into native datatpes can then be easily rendered into JSON, XML or other content types. </p>
               <SobreInfo text={`Node:`} /> <p> Routing, ExpressJS, SSR. </p>
-              <SobreInfo text={`Server Architecture:`} /> <p> Apache/Nginx. </p>
-              <SobreInfo text={`Servers:`} />
-              <p> Node/Express, Apache/Nginx. </p>
+              <SobreInfo text={`Express JS:`} /> <p> Build  APIs that works with CRUD operations & serialize data into native datatypes that can then be easily rendered into JSON, XML or other content types.</p>
               <SobreInfo text={`Databases:`} />
               <p>
                 ORM, ACID Transactions, N+1 Problem, Normalization. Data
@@ -172,8 +170,8 @@ function Sobre() {
                 SHA family, Hashing algorithms(script, bcrypt.), HTTPS, Content
                 Security Policy, CORS, SSL/TLS, OWASP Security Risks.
               </p>
-              <SobreInfo text={`:`} /> <p> . </p>
-              <SobreInfo text={`:`} /> <p> . </p>
+              <SobreInfo text={`Clouds:`} /> <p> AWS, GCP, Heroku, Vercel </p>
+              <SobreInfo text={`Serverless:`} /> <p> Firebase, MongoDB Atlas, Redis. </p>
             </div>
             <hr />
 
