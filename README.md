@@ -1,5 +1,5 @@
-<p align='center'><img src='/src/media/images/p-logo2.png' width='50px'></p>
-<h1 align='center'> Brealy Fabian Padron Rodriguez Portfolio - (https://brealy-padron-portfolio-react.vercel.app/) </h1>
+# Brealy Fabian Padron Rodriguez Portfolio
+https://brealypadronrodriguez.vercel.app/
 
 **Built with:**
 
@@ -48,29 +48,5 @@ Application is also Dockerized for development and production deployment.
 
 <p align='center'<strong>docker-compose run react-portfolio </strong> </p>
 
-#
 
 ## Hi, I'm [Brealy Padron Rodriguez](https://github.com/NigarumOvum/) 👋, a Full-Stack Developer Specialist, based in San Jose, Costa Rica
-
-# About me
-
-- � I’m looking for amazing projects and challenges to growth my skills and achieve more experience with different technologies. ![developer](https://img.icons8.com/external-flat-juicy-fish/24/000000/external-developer-devops-flat-flat-juicy-fish-2.png)
-- ⚡ Fun facts: I really love play video games ![videog](https://img.icons8.com/color/24/000000/controller.png), play the guitar/sing ![guitar](https://img.icons8.com/external-vitaliy-gorbachev-flat-vitaly-gorbachev/24/000000/external-guitar-camping-vitaliy-gorbachev-flat-vitaly-gorbachev.png), learn about science ![science](https://img.icons8.com/cute-clipart/24/000000/biotech.png), go to the beach ![beach](https://img.icons8.com/fluency/24/000000/beach.png), learn new technological trends very often.
-- I love the coffee! ![cofee](https://img.icons8.com/external-flat-juicy-fish/24/000000/external-developer-web-developer-flat-flat-juicy-fish-2.png)
-
-## 🌐 Contact
-
-- [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bfpr131095/)
-- :mailbox: bfpr131095@gmail.com
-- Portfolio Website:<a href="https://brealy-padron-portfolio-react.vercel.app/">Open</a>
-- Calendly:<a href="https://calendly.com/bfpr131095/15min">Schedule</a>
-- Facetime:<a href="https://facetime.apple.com/join#v=1&p=OapXvZd3EeyFUgJCzLl09Q&k=XOTlJOL-woTsudbzkNRyNNO8xTb_DciCEWuxQ_fwdTQ">Call</a>
-- ![spotify](https://img.icons8.com/fluency/24/000000/spotify.png)<a href="https://open.spotify.com/user/r8o2g959rb1dyp8fexucl2mbr">Follow me</a>
-
-## 💰You can help me by Donating
-
-- [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/nigarumovum)
-- [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/neighbordevcr)
-
--
-![](https://visitcount.itsvg.in/api?id=nigarumovum&icon=0&color=0)
